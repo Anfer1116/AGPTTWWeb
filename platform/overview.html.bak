@@ -1,0 +1,1260 @@
+<!DOCTYPE html>
+
+<!-- Last Published: Fri May 16 2025 21:35:18 GMT+0000 (Coordinated Universal Time) -->
+<html data-wf-domain="www.agilepoint.com" data-wf-page="66d082590031bdbd4af27790" data-wf-site="65d847699d4bd1a346311b4f" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>概要</title>
+<meta content="1000社以上に選ばれているビジネスプロセス管理および自動化プラットフォーム。当社の顧客には、ヘルスケアから政府機関まで、数十億ドル規模の企業が多数含まれています。業務プロセスやタスクの管理・自動化から、デジタルトランスフォーメーションの加速まで、企業のプロセスを大規模に立ち上げ・運用するために必要なすべてを提供することに注力しています。" name="description"/>
+<meta content="概要" property="og:title"/>
+<meta content="1000社以上に選ばれているビジネスプロセス管理および自動化プラットフォーム。当社の顧客には、ヘルスケアから政府機関まで、数十億ドル規模の企業が多数含まれています。業務プロセスやタスクの管理・自動化から、デジタルトランスフォーメーションの加速まで、企業のプロセスを大規模に立ち上げ・運用するために必要なすべてを提供することに注力しています。" property="og:description"/>
+<meta content="概要" property="twitter:title"/>
+<meta content="1000社以上に選ばれているビジネスプロセス管理および自動化プラットフォーム。当社の顧客には、ヘルスケアから政府機関まで、数十億ドル規模の企業が多数含まれています。業務プロセスやタスクの管理・自動化から、デジタルトランスフォーメーションの加速まで、企業のプロセスを大規模に立ち上げ・運用するために必要なすべてを提供することに注力しています。" property="twitter:description"/>
+<meta content="website" property="og:type"/>
+<meta content="summary_large_image" name="twitter:card"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<link href="https://cdn.prod.website-files.com/65d847699d4bd1a346311b4f/css/agilepoint.webflow.shared.623e25f84.min.css" rel="stylesheet" type="text/css"/>
+<link href="https://fonts.googleapis.com" rel="preconnect"/>
+<link crossorigin="anonymous" href="https://fonts.gstatic.com" rel="preconnect"/>
+<script src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js" type="text/javascript"></script>
+<script type="text/javascript">
+        WebFont.load({
+            google: {
+                families: ["Domine:regular,500,600,700", "Inter:100,200,300,regular,500,600,700,800,900", "Outfit:100,200,300,regular,500,600,700,800,900", "Poppins:regular,500,600,700,800,900", "DM Sans:regular,500,600,700,800,900", "Roboto:300,regular,500,700,900", "Poppins:300,regular"]
+            }
+        });
+    </script>
+<script type="text/javascript">
+        ! function(o, c) {
+            var n = c.documentElement,
+                t = " w-mod-";
+            n.className += t + "js", ("ontouchstart" in o || o.DocumentTouch && c instanceof DocumentTouch) && (n.className += t + "touch")
+        }(window, document);
+    </script>
+<link href="https://cdn.prod.website-files.com/65d847699d4bd1a346311b4f/664ed29871ad2b6565cd37fe_AgilePoint%20icon%20mark%20final.png" rel="shortcut icon" type="image/x-icon"/>
+<link href="https://cdn.prod.website-files.com/65d847699d4bd1a346311b4f/664ed2b5c993bd27dad207f7_AgilePoint%20Logo%20mark.png" rel="apple-touch-icon"/>
+<!-- Please keep this css code to improve the font quality-->
+<style>
+        * {
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale;
+        }
+    </style>
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-145822436-1">
+</script>
+<script>
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
+        gtag('config', 'UA-145822436-1');
+    </script>
+<script type="text/javascript">
+        window.__WEBFLOW_CURRENCY_SETTINGS = {
+            "currencyCode": "USD",
+            "symbol": "$",
+            "decimal": ".",
+            "fractionDigits": 2,
+            "group": ",",
+            "template": "{{wf {\"path\":\"symbol\",\"type\":\"PlainText\"} }} {{wf {\"path\":\"amount\",\"type\":\"CommercePrice\"} }} {{wf {\"path\":\"currencyCode\",\"type\":\"PlainText\"} }}",
+            "hideDecimalForWholeNumbers": false
+        };
+    </script>
+</head>
+<body class="body">
+<div class="page-wrapper">
+<div class="main-wrapper">
+<div class="ap-navbar_component boder-0 w-nav" data-animation="default" data-collapse="medium" data-duration="400" data-easing="ease" data-easing2="ease" role="banner">
+<div class="ap-navbar_container">
+<a class="ap-navbar_logo-link w-nav-brand" href="/">
+<div class="ap-logo_component"><img alt="Untitled UI logotext" class="ap-logo_logotype" loading="lazy" src="https://cdn.prod.website-files.com/65d847699d4bd1a346311b4f/664e1ce620c731dc2511c012_Agilepoint%C2%AE_Logo.svg"/><img alt="Logo" class="ap-logo_image" loading="lazy" src="https://cdn.prod.website-files.com/65d847699d4bd1a346311b4f/65dd525088cf6395813ac48e_agilepoint%201.svg"/></div>
+</a>
+<nav class="ap-navbar08_menu w-nav-menu" role="navigation">
+<div class="ap-navbar08_menu-left">
+<div class="ap-navbar08_menu-dropdown w-dropdown" data-delay="400" data-hover="false" data-w-id="b4df2b6f-addc-c228-0a17-4eef3ee20480">
+<div class="ap-navbar08_dropdown-toggle font-poppins w-dropdown-toggle">
+<div class="uui-dropdown-icon w-embed"><svg fill="none" height="20" viewbox="0 0 20 20" width="20" xmlns="http://www.w3.org/2000/svg">
+<path d="M5 7.5L10 12.5L15 7.5" stroke="CurrentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.67"></path>
+</svg></div>
+<div class="nav-text">プラットフォーム</div>
+<div class="new_tag_01">新着</div>
+</div>
+<nav class="ag-navbar08_dropdown-list_02 w-dropdown-list">
+<div class="dropdown_content_flex n-2">
+<div class="dropdown_slider_block">
+<a class="slider_content_block-2 for_menu core w-inline-block" href="/platform/core-capabilities">
+<div class="slider_name_flex">
+<div class="t_16-600 _20-poppins">コア機能</div>
+</div>
+<ul class="list-13" role="list">
+<li class="list-item-3">構成可能なローコード</li>
+<li class="list-item-3">適応型ワークフローとオーケストレーション</li>
+<li class="list-item-3">デジタルトランスフォーメーション</li>
+<li class="list-item-3">AI対応の将来保障</li>
+</ul>
+<div class="explore_flex">
+<div class="explore_link-2" href="#">
+<div>今すぐ探す</div><img alt="" class="arrow-card-icon" loading="lazy" src="https://cdn.prod.website-files.com/65d847699d4bd1a346311b4f/673e1fc29bf4623d3bd878e8_arrow-up-right.svg"/></div>
+</div>
+</a>
+<div class="slider-5 menu w-slider" data-animation="slide" data-autoplay="false" data-autoplay-limit="0" data-delay="4000" data-disable-swipe="false" data-duration="500" data-easing="ease" data-hide-arrows="false" data-infinite="true" data-nav-spacing="3">
+<div class="mask-6 w-slider-mask">
+<div class="slide-2 w-slide"></div>
+<div class="slide-2 w-slide">
+<div class="slider_content_block">
+<div class="slider_name_flex">
+<div class="t_16-600">Agilepoint NX V.90 がリリースされました<span class="new_tag">新着</span></div><img alt="" class="image-103" loading="lazy" src="https://cdn.prod.website-files.com/65d847699d4bd1a346311b4f/673e1e9ec1e76ef82939d659_Group%20430.svg"/></div>
+<ul class="list-11" role="list">
+<li>新機能が導入されました</li>
+<li>10以上の新規統合</li>
+</ul>
+<div class="explore_flex">
+<a class="explore_link w-inline-block" href="#">
+<div>今すぐ探す</div><img alt="" loading="lazy" src="https://cdn.prod.website-files.com/65d847699d4bd1a346311b4f/673e1fc29bf4623d3bd878e8_arrow-up-right.svg"/></a><img alt="" class="image-104" loading="lazy" src="https://cdn.prod.website-files.com/65d847699d4bd1a346311b4f/673e1fece43c58a8c2ab7dd2_Illustration_3%402x.svg"/></div>
+</div>
+</div>
+<div class="slide-2 w-slide">
+<div class="slider_content_block">
+<div class="slider_name_flex">
+<div class="t_16-600">Agilepoint NX V.90 がリリースされました<span class="new_tag">新着</span></div><img alt="" class="image-103" loading="lazy" src="https://cdn.prod.website-files.com/65d847699d4bd1a346311b4f/673e1e9ec1e76ef82939d659_Group%20430.svg"/></div>
+<ul class="list-11" role="list">
+<li>新機能が導入されました</li>
+<li>10以上の新規統合</li>
+</ul>
+<div class="explore_flex">
+<a class="explore_link w-inline-block" href="#">
+<div>今すぐ探す</div><img alt="" loading="lazy" src="https://cdn.prod.website-files.com/65d847699d4bd1a346311b4f/673e1fc29bf4623d3bd878e8_arrow-up-right.svg"/></a><img alt="" class="image-104" loading="lazy" src="https://cdn.prod.website-files.com/65d847699d4bd1a346311b4f/673e1fece43c58a8c2ab7dd2_Illustration_3%402x.svg"/></div>
+</div>
+</div>
+</div>
+<div class="left-arrow-4 w-slider-arrow-left"><img alt="" class="image-105" loading="lazy" src="https://cdn.prod.website-files.com/65d847699d4bd1a346311b4f/673e20baa2ca7d9be4597b3d_ArrowLeft.svg"/></div>
+<div class="right-arrow-5 w-slider-arrow-right"><img alt="" class="image-105" loading="lazy" src="https://cdn.prod.website-files.com/65d847699d4bd1a346311b4f/673e21899bf4623d3bda31c5_ArrowLeft%20(1).svg"/></div>
+<div class="slide-nav-5 w-slider-nav w-slider-nav-invert w-round"></div>
+</div>
+</div>
+<div class="dropdown_slider_block">
+<a class="slider_content_block-2 for_menu purple w-inline-block" data-w-id="74c518ed-84bd-ba1e-7c40-bf97900b2289" href="/platform/al-control-tower">
+<div class="slider_name_flex"><img alt="" class="image-215" loading="lazy" src="https://cdn.prod.website-files.com/65d847699d4bd1a346311b4f/673e1e9ec1e76ef82939d659_Group%20430.svg"/>
+<div class="t_16-600 _20-poppins">AIコントロールタワー<span class="new_tag_01">新着</span></div>
+</div>
+<ul class="list-13" role="list">
+<li class="list-item-3">ユニバーサルAIガバナンス</li>
+<li class="list-item-3">プラグアンドプレイAIモデル</li>
+<li class="list-item-3">リアルタイム監視と分析</li>
+</ul>
+<div class="explore_flex">
+<div class="explore_link-2" href="#">
+<div>今すぐ探す</div><img alt="" class="arrow-card-icon" loading="lazy" src="https://cdn.prod.website-files.com/65d847699d4bd1a346311b4f/673e1fc29bf4623d3bd878e8_arrow-up-right.svg"/></div>
+</div>
+</a>
+<div class="slider-5 menu w-slider" data-animation="slide" data-autoplay="false" data-autoplay-limit="0" data-delay="4000" data-disable-swipe="false" data-duration="500" data-easing="ease" data-hide-arrows="false" data-infinite="true" data-nav-spacing="3">
+<div class="mask-6 w-slider-mask">
+<div class="slide-2 w-slide"></div>
+<div class="slide-2 w-slide">
+<div class="slider_content_block">
+<div class="slider_name_flex">
+<div class="t_16-600">Agilepoint NX V.90 がリリースされました<span class="new_tag">新着</span></div><img alt="" class="image-103" loading="lazy" src="https://cdn.prod.website-files.com/65d847699d4bd1a346311b4f/673e1e9ec1e76ef82939d659_Group%20430.svg"/></div>
+<ul class="list-11" role="list">
+<li>新機能が導入されました</li>
+<li>10以上の新規統合</li>
+</ul>
+<div class="explore_flex">
+<a class="explore_link w-inline-block" href="#">
+<div>今すぐ探す</div><img alt="" loading="lazy" src="https://cdn.prod.website-files.com/65d847699d4bd1a346311b4f/673e1fc29bf4623d3bd878e8_arrow-up-right.svg"/></a><img alt="" class="image-104" loading="lazy" src="https://cdn.prod.website-files.com/65d847699d4bd1a346311b4f/673e1fece43c58a8c2ab7dd2_Illustration_3%402x.svg"/></div>
+</div>
+</div>
+<div class="slide-2 w-slide">
+<div class="slider_content_block">
+<div class="slider_name_flex">
+<div class="t_16-600">Agilepoint NX V.90 がリリースされました<span class="new_tag">新着</span></div><img alt="" class="image-103" loading="lazy" src="https://cdn.prod.website-files.com/65d847699d4bd1a346311b4f/673e1e9ec1e76ef82939d659_Group%20430.svg"/></div>
+<ul class="list-11" role="list">
+<li>新機能が導入されました</li>
+<li>10以上の新規統合</li>
+</ul>
+<div class="explore_flex">
+<a class="explore_link w-inline-block" href="#">
+<div>今すぐ探す</div><img alt="" loading="lazy" src="https://cdn.prod.website-files.com/65d847699d4bd1a346311b4f/673e1fc29bf4623d3bd878e8_arrow-up-right.svg"/></a><img alt="" class="image-104" loading="lazy" src="https://cdn.prod.website-files.com/65d847699d4bd1a346311b4f/673e1fece43c58a8c2ab7dd2_Illustration_3%402x.svg"/></div>
+</div>
+</div>
+</div>
+<div class="left-arrow-4 w-slider-arrow-left"><img alt="" class="image-105" loading="lazy" src="https://cdn.prod.website-files.com/65d847699d4bd1a346311b4f/673e20baa2ca7d9be4597b3d_ArrowLeft.svg"/></div>
+<div class="right-arrow-5 w-slider-arrow-right"><img alt="" class="image-105" loading="lazy" src="https://cdn.prod.website-files.com/65d847699d4bd1a346311b4f/673e21899bf4623d3bda31c5_ArrowLeft%20(1).svg"/></div>
+<div class="slide-nav-5 w-slider-nav w-slider-nav-invert w-round"></div>
+</div>
+</div>
+<div class="dropdown_slider_block">
+<a class="slider_content_block-2 for_menu blue w-inline-block" href="/whats-new">
+<div class="slider_name_flex">
+<div class="t_16-600 _20-poppins">AgilePoint NX v9 SU1<span class="new_tag_01">新着</span></div><img alt="" class="image-215" loading="lazy" src="https://cdn.prod.website-files.com/65d847699d4bd1a346311b4f/673e1e9ec1e76ef82939d659_Group%20430.svg"/></div>
+<ul class="list-13" role="list">
+<li class="list-item-3">AIコントロールタワー</li>
+<li class="list-item-3">AIアシスタントARIA</li>
+<li class="list-item-3">全新SharePointアプリ</li>
+</ul>
+<div class="explore_flex">
+<div class="explore_link-2" href="#">
+<div>今すぐ探す</div><img alt="" class="arrow-card-icon" loading="lazy" src="https://cdn.prod.website-files.com/65d847699d4bd1a346311b4f/673e1fc29bf4623d3bd878e8_arrow-up-right.svg"/></div>
+</div>
+</a>
+<div class="slider-5 menu w-slider" data-animation="slide" data-autoplay="false" data-autoplay-limit="0" data-delay="4000" data-disable-swipe="false" data-duration="500" data-easing="ease" data-hide-arrows="false" data-infinite="true" data-nav-spacing="3">
+<div class="mask-6 w-slider-mask">
+<div class="slide-2 w-slide"></div>
+<div class="slide-2 w-slide">
+<div class="slider_content_block">
+<div class="slider_name_flex">
+<div class="t_16-600">Agilepoint NX V.90 がリリースされました<span class="new_tag">新着</span></div><img alt="" class="image-103" loading="lazy" src="https://cdn.prod.website-files.com/65d847699d4bd1a346311b4f/673e1e9ec1e76ef82939d659_Group%20430.svg"/></div>
+<ul class="list-11" role="list">
+<li>新機能が導入されました</li>
+<li>10以上の新規統合</li>
+</ul>
+<div class="explore_flex">
+<a class="explore_link w-inline-block" href="#">
+<div>今すぐ探す</div><img alt="" loading="lazy" src="https://cdn.prod.website-files.com/65d847699d4bd1a346311b4f/673e1fc29bf4623d3bd878e8_arrow-up-right.svg"/></a><img alt="" class="image-104" loading="lazy" src="https://cdn.prod.website-files.com/65d847699d4bd1a346311b4f/673e1fece43c58a8c2ab7dd2_Illustration_3%402x.svg"/></div>
+</div>
+</div>
+<div class="slide-2 w-slide">
+<div class="slider_content_block">
+<div class="slider_name_flex">
+<div class="t_16-600">Agilepoint NX V.90 がリリースされました<span class="new_tag">新着</span></div><img alt="" class="image-103" loading="lazy" src="https://cdn.prod.website-files.com/65d847699d4bd1a346311b4f/673e1e9ec1e76ef82939d659_Group%20430.svg"/></div>
+<ul class="list-11" role="list">
+<li>新機能が導入されました</li>
+<li>10以上の新規統合</li>
+</ul>
+<div class="explore_flex">
+<a class="explore_link w-inline-block" href="#">
+<div>今すぐ探す</div><img alt="" loading="lazy" src="https://cdn.prod.website-files.com/65d847699d4bd1a346311b4f/673e1fc29bf4623d3bd878e8_arrow-up-right.svg"/></a><img alt="" class="image-104" loading="lazy" src="https://cdn.prod.website-files.com/65d847699d4bd1a346311b4f/673e1fece43c58a8c2ab7dd2_Illustration_3%402x.svg"/></div>
+</div>
+</div>
+</div>
+<div class="left-arrow-4 w-slider-arrow-left"><img alt="" class="image-105" loading="lazy" src="https://cdn.prod.website-files.com/65d847699d4bd1a346311b4f/673e20baa2ca7d9be4597b3d_ArrowLeft.svg"/></div>
+<div class="right-arrow-5 w-slider-arrow-right"><img alt="" class="image-105" loading="lazy" src="https://cdn.prod.website-files.com/65d847699d4bd1a346311b4f/673e21899bf4623d3bda31c5_ArrowLeft%20(1).svg"/></div>
+<div class="slide-nav-5 w-slider-nav w-slider-nav-invert w-round"></div>
+</div>
+</div>
+<div class="dropdown_slider_block">
+<a class="slider_content_block-2 for_menu four-core w-inline-block" href="/agilepoint-and-sharepoint-capabilities">
+<div class="slider_name_flex">
+<div class="t_16-600 _20-poppins">AgilePoint + SharePoint</div>
+</div>
+<ul class="list-13" role="list">
+<li class="list-item-3">70以上のSharePoint専用アクティビティ</li>
+<li class="list-item-3">Microsoft更新への耐性</li>
+<li class="list-item-3">クロスプラットフォームワークフロー実行</li>
+</ul>
+<div class="explore_flex">
+<div class="explore_link-2" href="#">
+<div>今すぐ探す</div><img alt="" class="arrow-card-icon" loading="lazy" src="https://cdn.prod.website-files.com/65d847699d4bd1a346311b4f/673e1fc29bf4623d3bd878e8_arrow-up-right.svg"/></div>
+</div>
+</a>
+<div class="slider-5 menu w-slider" data-animation="slide" data-autoplay="false" data-autoplay-limit="0" data-delay="4000" data-disable-swipe="false" data-duration="500" data-easing="ease" data-hide-arrows="false" data-infinite="true" data-nav-spacing="3">
+<div class="mask-6 w-slider-mask">
+<div class="slide-2 w-slide"></div>
+<div class="slide-2 w-slide">
+<div class="slider_content_block">
+<div class="slider_name_flex">
+<div class="t_16-600">Agilepoint NX V.90 がリリースされました<span class="new_tag">新着</span></div><img alt="" class="image-103" loading="lazy" src="https://cdn.prod.website-files.com/65d847699d4bd1a346311b4f/673e1e9ec1e76ef82939d659_Group%20430.svg"/></div>
+<ul class="list-11" role="list">
+<li>新機能が導入されました</li>
+<li>10以上の新規統合</li>
+</ul>
+<div class="explore_flex">
+<a class="explore_link w-inline-block" href="#">
+<div>今すぐ探す</div><img alt="" loading="lazy" src="https://cdn.prod.website-files.com/65d847699d4bd1a346311b4f/673e1fc29bf4623d3bd878e8_arrow-up-right.svg"/></a><img alt="" class="image-104" loading="lazy" src="https://cdn.prod.website-files.com/65d847699d4bd1a346311b4f/673e1fece43c58a8c2ab7dd2_Illustration_3%402x.svg"/></div>
+</div>
+</div>
+<div class="slide-2 w-slide">
+<div class="slider_content_block">
+<div class="slider_name_flex">
+<div class="t_16-600">AgilePoint NX v.90 リリース<span class="new_tag">新着</span></div><img alt="" class="image-103" loading="lazy" src="https://cdn.prod.website-files.com/65d847699d4bd1a346311b4f/673e1e9ec1e76ef82939d659_Group%20430.svg"/></div>
+<ul class="list-11" role="list">
+<li>新機能が導入されました</li>
+<li>10以上の新規統合</li>
+</ul>
+<div class="explore_flex">
+<a class="explore_link w-inline-block" href="#">
+<div>今すぐ探す</div><img alt="" loading="lazy" src="https://cdn.prod.website-files.com/65d847699d4bd1a346311b4f/673e1fc29bf4623d3bd878e8_arrow-up-right.svg"/></a><img alt="" class="image-104" loading="lazy" src="https://cdn.prod.website-files.com/65d847699d4bd1a346311b4f/673e1fece43c58a8c2ab7dd2_Illustration_3%402x.svg"/></div>
+</div>
+</div>
+</div>
+<div class="left-arrow-4 w-slider-arrow-left"><img alt="" class="image-105" loading="lazy" src="https://cdn.prod.website-files.com/65d847699d4bd1a346311b4f/673e20baa2ca7d9be4597b3d_ArrowLeft.svg"/></div>
+<div class="right-arrow-5 w-slider-arrow-right"><img alt="" class="image-105" loading="lazy" src="https://cdn.prod.website-files.com/65d847699d4bd1a346311b4f/673e21899bf4623d3bda31c5_ArrowLeft%20(1).svg"/></div>
+<div class="slide-nav-5 w-slider-nav w-slider-nav-invert w-round"></div>
+</div>
+</div>
+</div>
+</nav>
+</div>
+<div class="ap-navbar08_menu-dropdown w-dropdown" data-delay="400" data-hover="false" data-w-id="c57f610a-f5d0-38ff-1fdf-4d14e76ad99b">
+<div class="ap-navbar08_dropdown-toggle font-poppins w-dropdown-toggle">
+<div class="uui-dropdown-icon w-embed"><svg fill="none" height="20" viewbox="0 0 20 20" width="20" xmlns="http://www.w3.org/2000/svg">
+<path d="M5 7.5L10 12.5L15 7.5" stroke="CurrentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.67"></path>
+</svg></div>
+<div class="nav-text">エージェント成熟度モデル</div>
+</div>
+<nav class="ag-navbar08_dropdown-list is-center2 maturity w-dropdown-list">
+<div class="ap-navbar08_dropdown-content is-2-grid">
+<div class="ap-navbar08_dropdown-link-list is-hide">
+<h4 class="ap-navbar08_heading">サービス</h4>
+<a class="ap-navbar08_dropdown-link is-gray-hover w-inline-block" href="/resources/event-webinar">
+<div class="ap-navbar08_icon-wrapper">
+<div class="ag-icon-1x1-xsmall w-embed"><svg fill="none" height="25" viewbox="0 0 24 25" width="24" xmlns="http://www.w3.org/2000/svg">
+<path d="M20 19.5V16.5H7C5.34315 16.5 4 17.8431 4 19.5M8.8 22.5H16.8C17.9201 22.5 18.4802 22.5 18.908 22.282C19.2843 22.0903 19.5903 21.7843 19.782 21.408C20 20.9802 20 20.4201 20 19.3V5.7C20 4.57989 20 4.01984 19.782 3.59202C19.5903 3.21569 19.2843 2.90973 18.908 2.71799C18.4802 2.5 17.9201 2.5 16.8 2.5H8.8C7.11984 2.5 6.27976 2.5 5.63803 2.82698C5.07354 3.1146 4.6146 3.57354 4.32698 4.13803C4 4.77976 4 5.61984 4 7.3V17.7C4 19.3802 4 20.2202 4.32698 20.862C4.6146 21.4265 5.07354 21.8854 5.63803 22.173C6.27976 22.5 7.11984 22.5 8.8 22.5Z" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></path>
+</svg></div>
+</div>
+<div class="ap-navbar08_item-right">
+<div class="ap-navbar08_item-heading">アドバイザリー</div>
+<div class="ag-text-size-small hide-mobile-landscape">今後のイベントとウェビナー</div>
+</div>
+</a>
+<a class="ap-navbar08_dropdown-link is-gray-hover w-inline-block" href="/resources/resource-center">
+<div class="ap-navbar08_icon-wrapper">
+<div class="ag-icon-1x1-xsmall w-embed"><svg fill="none" height="25" viewbox="0 0 24 25" width="24" xmlns="http://www.w3.org/2000/svg">
+<path d="M14 2.76953V6.90007C14 7.46012 14 7.74015 14.109 7.95406C14.2049 8.14222 14.3578 8.2952 14.546 8.39108C14.7599 8.50007 15.0399 8.50007 15.6 8.50007H19.7305M14 18L16.5 15.5L14 13M10 13L7.5 15.5L10 18M20 10.4882V17.7C20 19.3802 20 20.2202 19.673 20.862C19.3854 21.4265 18.9265 21.8854 18.362 22.173C17.7202 22.5 16.8802 22.5 15.2 22.5H8.8C7.11984 22.5 6.27976 22.5 5.63803 22.173C5.07354 21.8854 4.6146 21.4265 4.32698 20.862C4 20.2202 4 19.3802 4 17.7V7.3C4 5.61984 4 4.77976 4.32698 4.13803C4.6146 3.57354 5.07354 3.1146 5.63803 2.82698C6.27976 2.5 7.11984 2.5 8.8 2.5H12.0118C12.7455 2.5 13.1124 2.5 13.4577 2.58289C13.7638 2.65638 14.0564 2.77759 14.3249 2.94208C14.6276 3.1276 14.887 3.38703 15.4059 3.90589L18.5941 7.09411C19.113 7.61297 19.3724 7.8724 19.5579 8.17515C19.7224 8.44356 19.8436 8.7362 19.9171 9.0423C20 9.38757 20 9.75445 20 10.4882Z" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></path>
+</svg></div>
+</div>
+<div class="ap-navbar08_item-right">
+<div class="ap-navbar08_item-heading">エンタープライズベイクオフ</div>
+<div class="ag-text-size-small hide-mobile-landscape">ビジネスプロセス管理と自動化をガイド</div>
+</div>
+</a>
+</div>
+<h4 class="ap-navbar08_heading">貴社の業務自動化の仕組みは、どこまで連携・最適化されていますか？</h4>
+<div class="ap-navbar08_dropdown-link-list maturity">
+<a aria-current="page" class="ap-navbar08_dropdown-link is-gray-hover hover w-inline-block w--current" href="/agilepoint-maturity-model-overview">
+<div class="ap-navbar08_icon-wrapper maturity"><img alt="" class="ag-icon-1x1-xsmall-1 abs" loading="lazy" src="https://cdn.prod.website-files.com/65d847699d4bd1a346311b4f/67bb6c8ade89e033177c60b1_Frame%201410117247%20(2).avif"/><img alt="" class="ag-icon-1x1-xsmall-2" loading="lazy" src="https://cdn.prod.website-files.com/65d847699d4bd1a346311b4f/67bb6c99e7e21f3e0a09b705_Frame%201410117246%20(1).avif"/></div>
+<div class="ap-navbar08_item-right">
+<div class="ag-text-size-small hide-mobile-landscape">オンライン自己学習リソース</div>
+<div class="ap-navbar08_item-heading">成熟度モデルの概要</div>
+</div>
+</a>
+<a class="ap-navbar08_dropdown-link is-gray-hover hover w-inline-block" href="/agentic-maturity-model/level--1">
+<div class="ap-navbar08_icon-wrapper maturity"><img alt="" class="ag-icon-1x1-xsmall-1 abs" loading="lazy" src="https://cdn.prod.website-files.com/65d847699d4bd1a346311b4f/67bb6c8ade89e033177c60b1_Frame%201410117247%20(2).avif"/><img alt="" class="ag-icon-1x1-xsmall-2" loading="lazy" src="https://cdn.prod.website-files.com/65d847699d4bd1a346311b4f/67bb6c99e7e21f3e0a09b705_Frame%201410117246%20(1).avif"/></div>
+<div class="ap-navbar08_item-right">
+<div class="ap-navbar08_item-heading"><span class="text-span-purple">レベル-1：</span>ハッピーパス自動化</div>
+<div class="ag-text-size-small hide-mobile-landscape">オンライン自己学習リソース</div>
+</div>
+</a>
+<a class="ap-navbar08_dropdown-link is-gray-hover hover w-inline-block" href="/agentic-maturity-model/level-0">
+<div class="ap-navbar08_icon-wrapper maturity"><img alt="" class="ag-icon-1x1-xsmall-1 abs" loading="lazy" src="https://cdn.prod.website-files.com/65d847699d4bd1a346311b4f/67bb6c8ade89e033177c60b1_Frame%201410117247%20(2).avif"/><img alt="" class="ag-icon-1x1-xsmall-2" loading="lazy" src="https://cdn.prod.website-files.com/65d847699d4bd1a346311b4f/67bb6c99e7e21f3e0a09b705_Frame%201410117246%20(1).avif"/></div>
+<div class="ap-navbar08_item-right">
+<div class="ag-text-size-small hide-mobile-landscape">オンライン自己学習リソース</div>
+<div class="ap-navbar08_item-heading"><span class="text-span-20">レベル0：</span>プラットフォーム非依存の構成</div>
+</div>
+</a>
+<a class="ap-navbar08_dropdown-link is-gray-hover hover w-inline-block" href="/agentic-maturity-model/level-1">
+<div class="ap-navbar08_icon-wrapper maturity"><img alt="" class="ag-icon-1x1-xsmall-1 abs" loading="lazy" src="https://cdn.prod.website-files.com/65d847699d4bd1a346311b4f/67bb6c8ade89e033177c60b1_Frame%201410117247%20(2).avif"/><img alt="" class="ag-icon-1x1-xsmall-2" loading="lazy" src="https://cdn.prod.website-files.com/65d847699d4bd1a346311b4f/67bb6c99e7e21f3e0a09b705_Frame%201410117246%20(1).avif"/></div>
+<div class="ap-navbar08_item-right">
+<div class="ag-text-size-small hide-mobile-landscape">オンライン自己学習リソース</div>
+<div class="ap-navbar08_item-heading"><span class="text-span-20">レベル1：</span>柔軟な自動化</div>
+</div>
+</a>
+<a class="ap-navbar08_dropdown-link is-gray-hover hover w-inline-block" href="/agentic-maturity-model/level-2">
+<div class="ap-navbar08_icon-wrapper maturity"><img alt="" class="ag-icon-1x1-xsmall-1 abs" loading="lazy" src="https://cdn.prod.website-files.com/65d847699d4bd1a346311b4f/67bb6c8ade89e033177c60b1_Frame%201410117247%20(2).avif"/><img alt="" class="ag-icon-1x1-xsmall-2" loading="lazy" src="https://cdn.prod.website-files.com/65d847699d4bd1a346311b4f/67bb6c99e7e21f3e0a09b705_Frame%201410117246%20(1).avif"/></div>
+<div class="ap-navbar08_item-right">
+<div class="ag-text-size-small hide-mobile-landscape">オンライン自己学習リソース</div>
+<div class="ap-navbar08_item-heading"><span class="text-span-20">レベル2：</span>セキュアなAIエージェント統制</div>
+</div>
+</a>
+<a class="ap-navbar08_dropdown-link is-gray-hover hover w-inline-block" href="/agentic-maturity-model/level-3">
+<div class="ap-navbar08_icon-wrapper maturity"><img alt="" class="ag-icon-1x1-xsmall-1 abs" loading="lazy" src="https://cdn.prod.website-files.com/65d847699d4bd1a346311b4f/67bb6c8ade89e033177c60b1_Frame%201410117247%20(2).avif"/><img alt="" class="ag-icon-1x1-xsmall-2" loading="lazy" src="https://cdn.prod.website-files.com/65d847699d4bd1a346311b4f/67bb6c99e7e21f3e0a09b705_Frame%201410117246%20(1).avif"/></div>
+<div class="ap-navbar08_item-right">
+<div class="ag-text-size-small hide-mobile-landscape">オンライン自己学習リソース</div>
+<div class="ap-navbar08_item-heading"><span class="text-span-20">レベル3：</span>クローズドループ最適化</div>
+</div>
+</a>
+</div>
+<div class="ap-navbar08_dropdown-link-list hide">
+<h4 class="ap-navbar08_heading">サポート</h4>
+<a class="ap-navbar08_dropdown-link is-gray-hover w-inline-block" href="https://helpdesk.agilepoint.com/hc/en-us" target="_blank">
+<div class="ap-navbar08_icon-wrapper"><img alt="" class="ag-icon-1x1-xsmall" loading="lazy" src="https://cdn.prod.website-files.com/65d847699d4bd1a346311b4f/66e50d6a22fd5a8e2a1d4bbf_help.svg"/></div>
+<div class="ap-navbar08_item-right">
+<div class="ap-navbar08_item-heading">ヘルプデスク</div>
+<div class="ag-text-size-small hide-mobile-landscape">北米ユーザー向けAgilePoint OnDemandに接続</div>
+</div>
+</a>
+<a class="ap-navbar08_dropdown-link is-gray-hover w-inline-block" href="https://helpdesk.agilepoint.com/hc/en-us/community/topics" target="_blank">
+<div class="ap-navbar08_icon-wrapper"><img alt="" class="ag-icon-1x1-xsmall" loading="lazy" src="https://cdn.prod.website-files.com/65d847699d4bd1a346311b4f/66e50d80ec07c3fa3fe3fbc2_Community.svg"/></div>
+<div class="ap-navbar08_item-right">
+<div class="ap-navbar08_item-heading">コミュニティフォーラム</div>
+<div class="ag-text-size-small hide-mobile-landscape">EMEAユーザー向けAgilePoint OnDemandに接続</div>
+</div>
+</a>
+<a class="ap-navbar08_dropdown-link is-gray-hover w-inline-block" href="https://documentation.agilepoint.com/" target="_blank">
+<div class="ap-navbar08_icon-wrapper"><img alt="" class="ag-icon-1x1-xsmall" loading="lazy" src="https://cdn.prod.website-files.com/65d847699d4bd1a346311b4f/66e50d979ec2cf5375afa420_API.svg"/></div>
+<div class="ap-navbar08_item-right">
+<div class="ap-navbar08_item-heading">開発者API</div>
+<div class="ag-text-size-small hide-mobile-landscape">EMEAユーザー向けAgilePoint OnDemandに接続</div>
+</div>
+</a>
+</div>
+</div>
+</nav>
+</div>
+<div class="ap-navbar08_menu-dropdown is_2_collum hide-this w-dropdown" data-delay="400" data-hover="true" data-w-id="b4df2b6f-addc-c228-0a17-4eef3ee20516">
+<div class="ap-navbar08_dropdown-toggle font-poppins w-dropdown-toggle">
+<div class="uui-dropdown-icon w-embed"><svg fill="none" height="20" viewbox="0 0 20 20" width="20" xmlns="http://www.w3.org/2000/svg">
+<path d="M5 7.5L10 12.5L15 7.5" stroke="CurrentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.67"></path>
+</svg></div>
+<div class="nav-text">ソリューション</div>
+</div>
+<nav class="ag-navbar08_dropdown-list is-2-collum _50 w-dropdown-list">
+<div class="ap-navbar08_dropdown-content is-2-grid _3 first-1">
+<div class="ap-navbar08_dropdown-link-list _01">
+<h4 class="ap-navbar08_heading">業界別</h4>
+<a class="ap-navbar08_dropdown-link is-gray-hover w-inline-block" href="/results/case-studies">
+<div class="ap-navbar08_icon-wrapper"><img alt="" class="ag-icon-1x1-xsmall" loading="lazy" src="https://cdn.prod.website-files.com/65d847699d4bd1a346311b4f/66de0382396af3b5cc105139_Frame%201410117243%20(1).svg"/></div>
+<div class="ap-navbar08_item-right">
+<div class="uui-navbar08_text-wrapper">
+<div class="ap-navbar08_item-heading margin-bottom-0">顧客と事例紹介</div>
+</div>
+<div class="ag-text-size-small hide-mobile-landscape">品質管理から資材計画まで<br/></div>
+</div>
+</a>
+<a class="ap-navbar08_dropdown-link is-gray-hover w-inline-block" href="#">
+<div class="ap-navbar08_icon-wrapper"><img alt="" class="ag-icon-1x1-xsmall" loading="lazy" src="https://cdn.prod.website-files.com/65d847699d4bd1a346311b4f/66de03ffd72eb33f270da29c_Frame%201410117243.svg"/></div>
+<div class="ap-navbar08_item-right">
+<div class="uui-navbar08_text-wrapper">
+<div class="ap-navbar08_item-heading margin-bottom-0">ユースケース</div>
+</div>
+<div class="ag-text-size-small hide-mobile-landscape">請求処理から保険引き受けまで<br/></div>
+</div>
+</a>
+</div>
+<div class="ap-navbar08_dropdown-link-list hide">
+<h4 class="ap-navbar08_heading"></h4>
+<a class="ap-navbar08_dropdown-link is-gray-hover w-inline-block" href="/industries/gas-oil">
+<div class="ap-navbar08_icon-wrapper"><img alt="" class="ag-icon-1x1-xsmall" loading="lazy" src="https://cdn.prod.website-files.com/65d847699d4bd1a346311b4f/66de05e4730b04027009cc15_Frame%201410117243%20(5).svg"/></div>
+<div class="ap-navbar08_item-right">
+<div class="ap-navbar08_item-heading">石油・ガス</div>
+<div class="ag-text-size-small hide-mobile-landscape">ゲスト体験管理から業務自動化まで</div>
+</div>
+</a>
+<a class="ap-navbar08_dropdown-link is-gray-hover w-inline-block" href="/industries/healthcare">
+<div class="ap-navbar08_icon-wrapper"><img alt="" class="ag-icon-1x1-xsmall" loading="lazy" src="https://cdn.prod.website-files.com/65d847699d4bd1a346311b4f/66de0620396af3b5cc129f59_Frame%201410117243%20(6).svg"/></div>
+<div class="ap-navbar08_item-right">
+<div class="ap-navbar08_item-heading">医療</div>
+<div class="ag-text-size-small hide-mobile-landscape">患者受け付けから請求処理まで</div>
+</div>
+</a>
+<a class="ap-navbar08_dropdown-link is-gray-hover w-inline-block" href="/industries/life-science">
+<div class="ap-navbar08_icon-wrapper"><img alt="" class="ag-icon-1x1-xsmall" loading="lazy" src="https://cdn.prod.website-files.com/65d847699d4bd1a346311b4f/66de067e2b3719a1e4375e35_Frame%201410117243%20(7).svg"/></div>
+<div class="ap-navbar08_item-right">
+<div class="ap-navbar08_item-heading">ライフサイエンス</div>
+<div class="ag-text-size-small hide-mobile-landscape">請求処理から保険引き受けまで</div>
+</div>
+</a>
+<a class="ap-navbar08_dropdown-link is-gray-hover w-inline-block" href="/industries/retail">
+<div class="ap-navbar08_icon-wrapper"><img alt="" class="ag-icon-1x1-xsmall" loading="lazy" src="https://cdn.prod.website-files.com/65d847699d4bd1a346311b4f/66de06b7cf48e816178032ef_Frame%201410117243%20(8).svg"/></div>
+<div class="ap-navbar08_item-right">
+<div class="ap-navbar08_item-heading">小売</div>
+<div class="ag-text-size-small hide-mobile-landscape">請求処理から保険引き受けまで</div>
+</div>
+</a>
+</div>
+<div class="ap-navbar08_dropdown-link-list hide">
+<h4 class="ap-navbar08_heading" id="w-node-e4f3b29f-46db-5d01-211d-4b17774c1ddd-3ee20478">ユースケース別</h4>
+<a class="ap-navbar08_dropdown-link is-gray-hover w-inline-block" href="/use-case/mergers-and-acquisitions">
+<div class="ap-navbar08_icon-wrapper"><img alt="" class="ag-icon-1x1-xsmall" loading="lazy" src="https://cdn.prod.website-files.com/65d847699d4bd1a346311b4f/66de076c0f5c1d74ce595ff3_Frame%201410117243%20(9).svg"/></div>
+<div class="ap-navbar08_item-right">
+<div class="ap-navbar08_item-heading">M&A</div>
+<div class="ag-text-size-small hide-mobile-landscape">ユースケースを選んで試す</div>
+</div>
+</a>
+<a class="ap-navbar08_dropdown-link is-gray-hover w-inline-block" href="/use-case/digital-transformation">
+<div class="ap-navbar08_icon-wrapper"><img alt="" class="ag-icon-1x1-xsmall" loading="lazy" src="https://cdn.prod.website-files.com/65d847699d4bd1a346311b4f/66e1076d59b25a2ba8b10276_Icons.svg"/></div>
+<div class="ap-navbar08_item-right">
+<div class="ap-navbar08_item-heading">デジタル変革</div>
+<div class="ag-text-size-small hide-mobile-landscape">ユースケースを選んで試す</div>
+</div>
+</a>
+<a class="ap-navbar08_dropdown-link is-gray-hover w-inline-block" href="/use-case/citizen-development">
+<div class="ap-navbar08_icon-wrapper"><img alt="" class="ag-icon-1x1-xsmall" loading="lazy" src="https://cdn.prod.website-files.com/65d847699d4bd1a346311b4f/66e1077fa378d84545e769c7_Icons(1).svg"/></div>
+<div class="ap-navbar08_item-right">
+<div class="ap-navbar08_item-heading">シチズン開発</div>
+<div class="ag-text-size-small hide-mobile-landscape">ユースケースを選んで試す</div>
+</div>
+</a>
+<a class="ap-navbar08_dropdown-link is-gray-hover w-inline-block" href="/use-case/low-code-no-code">
+<div class="ap-navbar08_icon-wrapper"><img alt="" class="ag-icon-1x1-xsmall" loading="lazy" src="https://cdn.prod.website-files.com/65d847699d4bd1a346311b4f/66e107933ce5e024a65dc8ea_Icons(2).svg"/></div>
+<div class="ap-navbar08_item-right">
+<div class="ap-navbar08_item-heading">ローコード・ノーコード</div>
+<div class="ag-text-size-small hide-mobile-landscape">ユースケースを選んで試す</div>
+</div>
+</a>
+<a class="ap-navbar08_dropdown-link is-gray-hover w-inline-block" href="/use-case/ai-development">
+<div class="ap-navbar08_icon-wrapper"><img alt="" class="ag-icon-1x1-xsmall" loading="lazy" src="https://cdn.prod.website-files.com/65d847699d4bd1a346311b4f/66e107a2d67f99ae59449fc6_Icons(3).svg"/></div>
+<div class="ap-navbar08_item-right">
+<div class="ap-navbar08_item-heading">AI開発</div>
+<div class="ag-text-size-small hide-mobile-landscape">ユースケースを選んで試す</div>
+</div>
+</a>
+</div>
+</div>
+</nav>
+</div>
+<div class="ap-navbar08_menu-dropdown w-dropdown" data-delay="400" data-hover="false" data-w-id="2ee0fc02-ac7a-65ba-0a1f-32b186e4f840">
+<div class="ap-navbar08_dropdown-toggle font-poppins w-dropdown-toggle">
+<div class="uui-dropdown-icon w-embed"><svg fill="none" height="20" viewbox="0 0 20 20" width="20" xmlns="http://www.w3.org/2000/svg">
+<path d="M5 7.5L10 12.5L15 7.5" stroke="CurrentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.67"></path>
+</svg></div>
+<div class="nav-text">リソース</div>
+</div>
+<nav class="ag-navbar08_dropdown-list is-center2 w-dropdown-list">
+<div class="ap-navbar08_dropdown-content is-2-grid">
+<div class="ap-navbar08_dropdown-link-list is-hide">
+<h4 class="ap-navbar08_heading">サービス</h4>
+<a class="ap-navbar08_dropdown-link is-gray-hover w-inline-block" href="/resources/event-webinar">
+<div class="ap-navbar08_icon-wrapper">
+<div class="ag-icon-1x1-xsmall w-embed"><svg fill="none" height="25" viewbox="0 0 24 25" width="24" xmlns="http://www.w3.org/2000/svg">
+<path d="M20 19.5V16.5H7C5.34315 16.5 4 17.8431 4 19.5M8.8 22.5H16.8C17.9201 22.5 18.4802 22.5 18.908 22.282C19.2843 22.0903 19.5903 21.7843 19.782 21.408C20 20.9802 20 20.4201 20 19.3V5.7C20 4.57989 20 4.01984 19.782 3.59202C19.5903 3.21569 19.2843 2.90973 18.908 2.71799C18.4802 2.5 17.9201 2.5 16.8 2.5H8.8C7.11984 2.5 6.27976 2.5 5.63803 2.82698C5.07354 3.1146 4.6146 3.57354 4.32698 4.13803C4 4.77976 4 5.61984 4 7.3V17.7C4 19.3802 4 20.2202 4.32698 20.862C4.6146 21.4265 5.07354 21.8854 5.63803 22.173C6.27976 22.5 7.11984 22.5 8.8 22.5Z" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></path>
+</svg></div>
+</div>
+<div class="ap-navbar08_item-right">
+<div class="ap-navbar08_item-heading">アドバイザリー</div>
+<div class="ag-text-size-small hide-mobile-landscape">開催予定のイベントとウェビナー</div>
+</div>
+</a>
+<a class="ap-navbar08_dropdown-link is-gray-hover w-inline-block" href="/resources/resource-center">
+<div class="ap-navbar08_icon-wrapper">
+<div class="ag-icon-1x1-xsmall w-embed"><svg fill="none" height="25" viewbox="0 0 24 25" width="24" xmlns="http://www.w3.org/2000/svg">
+<path d="M14 2.76953V6.90007C14 7.46012 14 7.74015 14.109 7.95406C14.2049 8.14222 14.3578 8.2952 14.546 8.39108C14.7599 8.50007 15.0399 8.50007 15.6 8.50007H19.7305M14 18L16.5 15.5L14 13M10 13L7.5 15.5L10 18M20 10.4882V17.7C20 19.3802 20 20.2202 19.673 20.862C19.3854 21.4265 18.9265 21.8854 18.362 22.173C17.7202 22.5 16.8802 22.5 15.2 22.5H8.8C7.11984 22.5 6.27976 22.5 5.63803 22.173C5.07354 21.8854 4.6146 21.4265 4.32698 20.862C4 20.2202 4 19.3802 4 17.7V7.3C4 5.61984 4 4.77976 4.32698 4.13803C4.6146 3.57354 5.07354 3.1146 5.63803 2.82698C6.27976 2.5 7.11984 2.5 8.8 2.5H12.0118C12.7455 2.5 13.1124 2.5 13.4577 2.58289C13.7638 2.65638 14.0564 2.77759 14.3249 2.94208C14.6276 3.1276 14.887 3.38703 15.4059 3.90589L18.5941 7.09411C19.113 7.61297 19.3724 7.8724 19.5579 8.17515C19.7224 8.44356 19.8436 8.7362 19.9171 9.0423C20 9.38757 20 9.75445 20 10.4882Z" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></path>
+</svg></div>
+</div>
+<div class="ap-navbar08_item-right">
+<div class="ap-navbar08_item-heading">エンタープライズベイクオフ</div>
+<div class="ag-text-size-small hide-mobile-landscape">ビジネスプロセス管理と自動化をガイド</div>
+</div>
+</a>
+</div>
+<h4 class="ap-navbar08_heading">さらに探索</h4>
+<div class="ap-navbar08_dropdown-link-list resources">
+<a class="ap-navbar08_dropdown-link is-gray-hover hover w-inline-block" href="/resources/white-papers">
+<div class="ap-navbar08_icon-wrapper maturity"><img alt="" class="ag-icon-1x1-xsmall-1 abs" loading="lazy" src="https://cdn.prod.website-files.com/65d847699d4bd1a346311b4f/67c07bbd6478e7b73d6bebcb_Frame%201410117246.avif"/><img alt="" class="ag-icon-1x1-xsmall-2" loading="lazy" src="https://cdn.prod.website-files.com/65d847699d4bd1a346311b4f/67c07cc8504b48665a47e974_Frame%201410117246%20(2).avif"/></div>
+<div class="ap-navbar08_item-right">
+<div class="ap-navbar08_item-heading">ホワイトペーパー</div>
+<div class="ag-text-size-small hide-mobile-landscape">オンライン自己学習リソース</div>
+</div>
+</a>
+<a class="ap-navbar08_dropdown-link is-gray-hover hover w-inline-block" href="/partners/service-partners">
+<div class="ap-navbar08_icon-wrapper maturity"><img alt="" class="ag-icon-1x1-xsmall-1 abs" loading="lazy" src="https://cdn.prod.website-files.com/65d847699d4bd1a346311b4f/67c07e5147aa99a1bc276dc1_Frame%201410117246%20(6).avif"/><img alt="" class="ag-icon-1x1-xsmall-2" loading="lazy" src="https://cdn.prod.website-files.com/65d847699d4bd1a346311b4f/67c07e68d4f703f930226408_Frame%201410117246%20(7).avif"/></div>
+<div class="ap-navbar08_item-right">
+<div class="ag-text-size-small hide-mobile-landscape">オンライン自己学習リソース</div>
+<div class="ap-navbar08_item-heading">パートナー(日本)</div>
+</div>
+</a>
+<a class="ap-navbar08_dropdown-link is-gray-hover hover w-inline-block" href="https://documentation.agilepoint.com/">
+<div class="ap-navbar08_icon-wrapper maturity"><img alt="" class="ag-icon-1x1-xsmall-1 abs" loading="lazy" src="https://cdn.prod.website-files.com/65d847699d4bd1a346311b4f/67c07bf3340252cf2dc40629_wertyuio.avif"/><img alt="" class="ag-icon-1x1-xsmall-2" loading="lazy" src="https://cdn.prod.website-files.com/65d847699d4bd1a346311b4f/67c07d3ddeacd0a76aba1794_Frame%201410117246%20(3).avif"/></div>
+<div class="ap-navbar08_item-right">
+<div class="ag-text-size-small hide-mobile-landscape">オンライン自己学習リソース</div>
+<div class="ap-navbar08_item-heading">ドキュメント</div>
+</div>
+</a>
+<a class="ap-navbar08_dropdown-link is-gray-hover hover w-inline-block" href="/training-schedule">
+<div class="ap-navbar08_icon-wrapper maturity"><img alt="" class="ag-icon-1x1-xsmall-1 abs" loading="lazy" src="https://cdn.prod.website-files.com/65d847699d4bd1a346311b4f/67c07e99b94704288131704d_Frame%201410117246%20(8).avif"/><img alt="" class="ag-icon-1x1-xsmall-2" loading="lazy" src="https://cdn.prod.website-files.com/65d847699d4bd1a346311b4f/67c07eaaa89b06eaa3a5e858_Frame%201410117246%20(9).avif"/></div>
+<div class="ap-navbar08_item-right">
+<div class="ag-text-size-small hide-mobile-landscape">オンライン自己学習リソース</div>
+<div class="ap-navbar08_item-heading">ライブトレーニング日程</div>
+</div>
+</a>
+<a class="ap-navbar08_dropdown-link is-gray-hover hover w-inline-block" href="/resources/event-webinar">
+<div class="ap-navbar08_icon-wrapper maturity"><img alt="" class="ag-icon-1x1-xsmall-1 abs" loading="lazy" src="https://cdn.prod.website-files.com/65d847699d4bd1a346311b4f/67c07dc85aa57a5f1cc70e07_Frame%201410117246%20(4).avif"/><img alt="" class="ag-icon-1x1-xsmall-2" loading="lazy" src="https://cdn.prod.website-files.com/65d847699d4bd1a346311b4f/67c07ddbf4d7203dc5785893_Frame%201410117246%20(5).avif"/></div>
+<div class="ap-navbar08_item-right">
+<div class="ag-text-size-small hide-mobile-landscape">オンライン自己学習リソース</div>
+<div class="ap-navbar08_item-heading">ウェビナーとイベント</div>
+</div>
+</a>
+<a class="ap-navbar08_dropdown-link is-gray-hover hover w-inline-block" href="/results/case-studies">
+<div class="ap-navbar08_icon-wrapper maturity"><img alt="" class="ag-icon-1x1-xsmall-1 abs" loading="lazy" src="https://cdn.prod.website-files.com/65d847699d4bd1a346311b4f/67c07eddc2abe375060c2b1c_Frame%201410117246%20(10).avif"/><img alt="" class="ag-icon-1x1-xsmall-2" loading="lazy" src="https://cdn.prod.website-files.com/65d847699d4bd1a346311b4f/67c07eee048b23f6cf321afb_Frame%201410117246%20(11).avif"/></div>
+<div class="ap-navbar08_item-right">
+<div class="ag-text-size-small hide-mobile-landscape">オンライン自己学習リソース</div>
+<div class="ap-navbar08_item-heading">顧客と事例紹介</div>
+</div>
+</a>
+</div>
+<div class="ap-navbar08_dropdown-link-list hide">
+<h4 class="ap-navbar08_heading">サポート</h4>
+<a class="ap-navbar08_dropdown-link is-gray-hover w-inline-block" href="https://helpdesk.agilepoint.com/hc/en-us" target="_blank">
+<div class="ap-navbar08_icon-wrapper"><img alt="" class="ag-icon-1x1-xsmall" loading="lazy" src="https://cdn.prod.website-files.com/65d847699d4bd1a346311b4f/66e50d6a22fd5a8e2a1d4bbf_help.svg"/></div>
+<div class="ap-navbar08_item-right">
+<div class="ap-navbar08_item-heading">ヘルプデスク</div>
+<div class="ag-text-size-small hide-mobile-landscape">北米ユーザー向けAgilePoint OnDemandに接続</div>
+</div>
+</a>
+<a class="ap-navbar08_dropdown-link is-gray-hover w-inline-block" href="https://helpdesk.agilepoint.com/hc/en-us/community/topics" target="_blank">
+<div class="ap-navbar08_icon-wrapper"><img alt="" class="ag-icon-1x1-xsmall" loading="lazy" src="https://cdn.prod.website-files.com/65d847699d4bd1a346311b4f/66e50d80ec07c3fa3fe3fbc2_Community.svg"/></div>
+<div class="ap-navbar08_item-right">
+<div class="ap-navbar08_item-heading">コミュニティフォーラム</div>
+<div class="ag-text-size-small hide-mobile-landscape">EMEAユーザー向けAgilePoint OnDemandに接続</div>
+</div>
+</a>
+<a class="ap-navbar08_dropdown-link is-gray-hover w-inline-block" href="https://documentation.agilepoint.com/" target="_blank">
+<div class="ap-navbar08_icon-wrapper"><img alt="" class="ag-icon-1x1-xsmall" loading="lazy" src="https://cdn.prod.website-files.com/65d847699d4bd1a346311b4f/66e50d979ec2cf5375afa420_API.svg"/></div>
+<div class="ap-navbar08_item-right">
+<div class="ap-navbar08_item-heading">開発者API</div>
+<div class="ag-text-size-small hide-mobile-landscape">EMEAユーザー向けAgilePoint OnDemandに接続</div>
+</div>
+</a>
+</div>
+</div>
+</nav>
+</div>
+<div class="ap-navbar08_menu-dropdown w-dropdown" data-delay="400" data-hover="false" data-w-id="4a72cd87-1583-3aec-c2ca-48e6765cbf91">
+<div class="ap-navbar08_dropdown-toggle font-poppins w-dropdown-toggle">
+<div class="uui-dropdown-icon w-embed"><svg fill="none" height="20" viewbox="0 0 20 20" width="20" xmlns="http://www.w3.org/2000/svg">
+<path d="M5 7.5L10 12.5L15 7.5" stroke="CurrentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.67"></path>
+</svg></div>
+<div class="nav-text">会社</div>
+</div>
+<nav class="ag-navbar08_dropdown-list is-center2 company w-dropdown-list">
+<div class="ap-navbar08_dropdown-content is-2-grid">
+<div class="ap-navbar08_dropdown-link-list is-hide">
+<h4 class="ap-navbar08_heading">サービス</h4>
+<a class="ap-navbar08_dropdown-link is-gray-hover w-inline-block" href="/resources/event-webinar">
+<div class="ap-navbar08_icon-wrapper">
+<div class="ag-icon-1x1-xsmall w-embed"><svg fill="none" height="25" viewbox="0 0 24 25" width="24" xmlns="http://www.w3.org/2000/svg">
+<path d="M20 19.5V16.5H7C5.34315 16.5 4 17.8431 4 19.5M8.8 22.5H16.8C17.9201 22.5 18.4802 22.5 18.908 22.282C19.2843 22.0903 19.5903 21.7843 19.782 21.408C20 20.9802 20 20.4201 20 19.3V5.7C20 4.57989 20 4.01984 19.782 3.59202C19.5903 3.21569 19.2843 2.90973 18.908 2.71799C18.4802 2.5 17.9201 2.5 16.8 2.5H8.8C7.11984 2.5 6.27976 2.5 5.63803 2.82698C5.07354 3.1146 4.6146 3.57354 4.32698 4.13803C4 4.77976 4 5.61984 4 7.3V17.7C4 19.3802 4 20.2202 4.32698 20.862C4.6146 21.4265 5.07354 21.8854 5.63803 22.173C6.27976 22.5 7.11984 22.5 8.8 22.5Z" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></path>
+</svg></div>
+</div>
+<div class="ap-navbar08_item-right">
+<div class="ap-navbar08_item-heading">アドバイザリー</div>
+<div class="ag-text-size-small hide-mobile-landscape">今後のイベントとウェビナー</div>
+</div>
+</a>
+<a class="ap-navbar08_dropdown-link is-gray-hover w-inline-block" href="/resources/resource-center">
+<div class="ap-navbar08_icon-wrapper">
+<div class="ag-icon-1x1-xsmall w-embed"><svg fill="none" height="25" viewbox="0 0 24 25" width="24" xmlns="http://www.w3.org/2000/svg">
+<path d="M14 2.76953V6.90007C14 7.46012 14 7.74015 14.109 7.95406C14.2049 8.14222 14.3578 8.2952 14.546 8.39108C14.7599 8.50007 15.0399 8.50007 15.6 8.50007H19.7305M14 18L16.5 15.5L14 13M10 13L7.5 15.5L10 18M20 10.4882V17.7C20 19.3802 20 20.2202 19.673 20.862C19.3854 21.4265 18.9265 21.8854 18.362 22.173C17.7202 22.5 16.8802 22.5 15.2 22.5H8.8C7.11984 22.5 6.27976 22.5 5.63803 22.173C5.07354 21.8854 4.6146 21.4265 4.32698 20.862C4 20.2202 4 19.3802 4 17.7V7.3C4 5.61984 4 4.77976 4.32698 4.13803C4.6146 3.57354 5.07354 3.1146 5.63803 2.82698C6.27976 2.5 7.11984 2.5 8.8 2.5H12.0118C12.7455 2.5 13.1124 2.5 13.4577 2.58289C13.7638 2.65638 14.0564 2.77759 14.3249 2.94208C14.6276 3.1276 14.887 3.38703 15.4059 3.90589L18.5941 7.09411C19.113 7.61297 19.3724 7.8724 19.5579 8.17515C19.7224 8.44356 19.8436 8.7362 19.9171 9.0423C20 9.38757 20 9.75445 20 10.4882Z" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></path>
+</svg></div>
+</div>
+<div class="ap-navbar08_item-right">
+<div class="ap-navbar08_item-heading">エンタープライズベイクオフ</div>
+<div class="ag-text-size-small hide-mobile-landscape">ビジネスプロセス管理と自動化をガイド</div>
+</div>
+</a>
+</div>
+<h4 class="ap-navbar08_heading">会社と価格</h4>
+<div class="ap-navbar08_dropdown-link-list resources" id="w-node-_4a72cd87-1583-3aec-c2ca-48e6765cbfad-3ee20478">
+<a class="ap-navbar08_dropdown-link is-gray-hover hover w-inline-block" href="/company" id="w-node-_4a72cd87-1583-3aec-c2ca-48e6765cbfae-3ee20478">
+<div class="ap-navbar08_icon-wrapper maturity"><img alt="" class="ag-icon-1x1-xsmall-1 abs" loading="lazy" src="https://cdn.prod.website-files.com/65d847699d4bd1a346311b4f/67c0813eab6ef59b03d3f7a2_Frame%201410117246%20(12).avif"/><img alt="" class="ag-icon-1x1-xsmall-2" loading="lazy" src="https://cdn.prod.website-files.com/65d847699d4bd1a346311b4f/67c0816035cb0c22d24b6227_Frame%201410117246%20(14).avif"/></div>
+<div class="ap-navbar08_item-right">
+<div class="ap-navbar08_item-heading">私たちについて</div>
+<div class="ag-text-size-small hide-mobile-landscape">オンライン自己学習リソース</div>
+</div>
+</a>
+<a class="ap-navbar08_dropdown-link is-gray-hover hover w-inline-block" href="/careers" id="w-node-_4a72cd87-1583-3aec-c2ca-48e6765cbfb7-3ee20478">
+<div class="ap-navbar08_icon-wrapper maturity"><img alt="" class="ag-icon-1x1-xsmall-1 abs" loading="lazy" src="https://cdn.prod.website-files.com/65d847699d4bd1a346311b4f/67c081f0826456e799dc8d0d_Frame%201410117246%20(18).avif"/><img alt="" class="ag-icon-1x1-xsmall-2" loading="lazy" src="https://cdn.prod.website-files.com/65d847699d4bd1a346311b4f/67c082261eb09c11a7f32124_Frame%201410117246%20(20).avif"/></div>
+<div class="ap-navbar08_item-right">
+<div class="ag-text-size-small hide-mobile-landscape">オンライン自己学習リソース</div>
+<div class="ap-navbar08_item-heading">採用情報</div>
+</div>
+</a>
+<a class="ap-navbar08_dropdown-link is-gray-hover hover w-inline-block" href="/platform/pricing" id="w-node-_4a72cd87-1583-3aec-c2ca-48e6765cbfc0-3ee20478">
+<div class="ap-navbar08_icon-wrapper maturity"><img alt="" class="ag-icon-1x1-xsmall-1 abs" loading="lazy" src="https://cdn.prod.website-files.com/65d847699d4bd1a346311b4f/67c0819dc25a439f738cdbbc_Frame%201410117246%20(15).avif"/><img alt="" class="ag-icon-1x1-xsmall-2" loading="lazy" src="https://cdn.prod.website-files.com/65d847699d4bd1a346311b4f/67c081be56d96ef71eb7e800_Frame%201410117246%20(17).avif"/></div>
+<div class="ap-navbar08_item-right">
+<div class="ag-text-size-small hide-mobile-landscape">オンライン自己学習リソース</div>
+<div class="ap-navbar08_item-heading">価格</div>
+</div>
+</a>
+<a class="ap-navbar08_dropdown-link is-gray-hover hover w-inline-block" href="/contact" id="w-node-_4a72cd87-1583-3aec-c2ca-48e6765cbfc9-3ee20478">
+<div class="ap-navbar08_icon-wrapper maturity"><img alt="" class="ag-icon-1x1-xsmall-1 abs" loading="lazy" src="https://cdn.prod.website-files.com/65d847699d4bd1a346311b4f/67c0828b947e2b075319497f_Frame%201410117246%20(21).avif"/><img alt="" class="ag-icon-1x1-xsmall-2" loading="lazy" src="https://cdn.prod.website-files.com/65d847699d4bd1a346311b4f/67c082b138a629302f5ee386_Frame%201410117246%20(22).avif"/></div>
+<div class="ap-navbar08_item-right">
+<div class="ag-text-size-small hide-mobile-landscape">オンライン自己学習リソース</div>
+<div class="ap-navbar08_item-heading">お問い合わせ</div>
+</div>
+</a>
+</div>
+<div class="ap-navbar08_dropdown-link-list hide">
+<h4 class="ap-navbar08_heading">サポート</h4>
+<a class="ap-navbar08_dropdown-link is-gray-hover w-inline-block" href="https://helpdesk.agilepoint.com/hc/en-us" target="_blank">
+<div class="ap-navbar08_icon-wrapper"><img alt="" class="ag-icon-1x1-xsmall" loading="lazy" src="https://cdn.prod.website-files.com/65d847699d4bd1a346311b4f/66e50d6a22fd5a8e2a1d4bbf_help.svg"/></div>
+<div class="ap-navbar08_item-right">
+<div class="ap-navbar08_item-heading">ヘルプデスク</div>
+<div class="ag-text-size-small hide-mobile-landscape">北米ユーザー向けAgilePoint OnDemandに接続</div>
+</div>
+</a>
+<a class="ap-navbar08_dropdown-link is-gray-hover w-inline-block" href="https://helpdesk.agilepoint.com/hc/en-us/community/topics" target="_blank">
+<div class="ap-navbar08_icon-wrapper"><img alt="" class="ag-icon-1x1-xsmall" loading="lazy" src="https://cdn.prod.website-files.com/65d847699d4bd1a346311b4f/66e50d80ec07c3fa3fe3fbc2_Community.svg"/></div>
+<div class="ap-navbar08_item-right">
+<div class="ap-navbar08_item-heading">コミュニティフォーラム</div>
+<div class="ag-text-size-small hide-mobile-landscape">EMEAユーザー向けAgilePoint OnDemandに接続</div>
+</div>
+</a>
+<a class="ap-navbar08_dropdown-link is-gray-hover w-inline-block" href="https://documentation.agilepoint.com/" target="_blank">
+<div class="ap-navbar08_icon-wrapper"><img alt="" class="ag-icon-1x1-xsmall" loading="lazy" src="https://cdn.prod.website-files.com/65d847699d4bd1a346311b4f/66e50d979ec2cf5375afa420_API.svg"/></div>
+<div class="ap-navbar08_item-right">
+<div class="ap-navbar08_item-heading">開発者向けAPI</div>
+<div class="ag-text-size-small hide-mobile-landscape">EMEAユーザー向けAgilePoint OnDemandに接続</div>
+</div>
+</a>
+</div>
+</div>
+</nav>
+</div>
+</div>
+<div class="ap-navbar08_menu-right">
+<div class="ap-navbar08_button-wrapper gap-16">
+<a class="btn-demo is-small w-inline-block" href="/platform/request-demo">
+<div class="btm-text-small">デモをリクエスト</div>
+</a>
+<a class="btn-demo bg-1 is-small w-inline-block" href="/platform/try-for-free">
+<div class="btm-text-small">無料で試す</div>
+</a>
+</div>
+</div>
+</nav>
+<div class="ap-navbar3_menu-button w-nav-button">
+<div class="menu-icon_component">
+<div class="menu-icon_line-top"></div>
+<div class="menu-icon_line-middle">
+<div class="menu-icon_line-middle-inner"></div>
+</div>
+<div class="menu-icon_line-bottom"></div>
+</div>
+</div>
+</div>
+
+<!-- GLOBALリンク追加 START-->
+<style>
+.global-link {
+    position: absolute;
+    top: 20px;
+    right: 30px;
+    font-weight: bold;
+    font-family: Poppins, sans-serif;
+    color: #3b4455;
+    text-decoration: underline;
+	font-size: 14px !important;
+}
+
+@media (min-width: 992px) and (max-width: 1530px) {
+	.global-link {
+        top: 0px;
+		right: 10px;
+    }
+}
+
+/* モバイル用調整 */
+@media (max-width: 991px) {
+    .global-link {
+        top: 20px;
+        right: 60px;
+        font-size: 14px;
+    }
+}
+</style>
+<a href="https://www.agilepoint.com/" class="global-link" target="_blank">GLOBAL</a>
+<!-- GLOBALリンク追加 END-->
+
+</div>
+<div class="section-hero-platform-overview">
+<div class="page-padding-40">
+<div class="page-padding mt-100">
+<div class="container-1260">
+<div class="wrap-platform-overview">
+<div class="heading-platform-overview">
+<h1 class="h-60" data-w-id="ff5db783-12b9-9dd7-1b5a-882daaa59e7c">AI時代を駆け抜ける、自動化の力</h1>
+<div class="maxw-654">
+<p class="pra-24 font-inter">導入初日から使える、AI対応のワークフローと業務全体の自動化を実現。</p>
+</div>
+</div><img alt="" class="img-w-245" loading="lazy" src="https://cdn.prod.website-files.com/65d847699d4bd1a346311b4f/66d08739d0e8191144d184ff_Group%20(39).svg"/>
+<div class="discription-platform-overview">
+<h2 class="h-42 font-poppins">コード不要で、どの環境でも使える業界初の<br/>アプリ開発プラットフォーム</h2>
+<div class="maxw-930">
+<p class="pra-20 font-inter text-blck">AgilePointは、裏側の複雑な仕組みを一つにまとめることで、システムごとの違いを意識せずにデータやロジックをつなげられます。</p>
+</div>
+</div>
+<div class="image-platform-overview mt-80">
+<div class="codeless">
+<div class="box-codeless">
+<div class="text-20 font-poppins">ワークフローとUIを含む、コード不要のエンドツーエンド構成</div>
+</div>
+<div class="codeless-card"><img alt="" class="img-codeless" loading="lazy" src="https://cdn.prod.website-files.com/65d847699d4bd1a346311b4f/66d74bfa6bbf6d40866b0ca6_Group%201261152803%20(1).svg"/>
+<div class="nub-box">
+<div class="nubm">
+<div class="number-box">
+<div>1</div>
+</div>
+<div class="bg" data-w-id="14b36ac7-fbfa-4b63-282e-6f895226fac2"></div>
+<div class="box-postion-tittle">
+<div class="text-block-42">アプリ全体で共通利用される、プロセス中心のメタデータ</div>
+</div>
+</div>
+<div class="nubm">
+<div class="number-box">
+<div>2</div>
+</div>
+<div class="bg" data-w-id="17901a9f-a2a7-1a21-9493-3924d19c9922"></div>
+<div class="box-postion-tittle">
+<div class="text-block-42">すべてのプロセスで共通利用されるメタデータ層</div>
+</div>
+</div>
+<div class="nubm _3">
+<div class="number-box">
+<div>3</div>
+</div>
+<div class="bg" data-w-id="5ca8d03d-ab86-86fe-d9a3-178ee05421f7"></div>
+<div class="box-postion-tittle">
+<div class="text-block-42">AIと業務機能を自在に組み合わせる、統合サービスカタログ</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="box-data"><img alt="" class="img-codeless" loading="lazy" src="https://cdn.prod.website-files.com/65d847699d4bd1a346311b4f/66d75003dd58242bb4e186aa_Group%201261152804.svg"/>
+<div class="nub-box mt-0">
+<div class="nubm">
+<div class="number-box">
+<div>4</div>
+</div>
+<div class="bg" data-w-id="a31c8fe5-15f8-116f-07b4-a97d5856d9df"></div>
+<div class="box-postion-tittle">
+<div class="text-block-42">ルーズカップリング（ゆるやかに連携した仕組み）</div>
+</div>
+</div>
+<div class="nubm">
+<div class="number-box">
+<div>5</div>
+</div>
+<div class="bg" data-w-id="3919a5a6-0182-22cf-0513-c00d212f2b76"></div>
+<div class="box-postion-tittle">
+<div class="text-block-42">個別に分断されたデータ中心型のメタデータ層</div>
+</div>
+</div>
+<div class="nubm">
+<div class="number-box">
+<div>6</div>
+</div>
+<div class="bg" data-w-id="4fb86ed6-943f-23f8-6e4d-273a695b4855"></div>
+<div class="box-postion-tittle">
+<div class="text-block-42">既存技術と新興テクノロジースタックの両方に対応</div>
+</div>
+</div>
+</div>
+</div>
+<div class="small-wrapper">
+<div class="num-card">
+<div class="number-box _30">
+<div>1</div>
+</div>
+<div class="text-tinny">アプリ全体で共通利用される、プロセス中心のメタデータ</div>
+</div>
+<div class="num-card">
+<div class="number-box _30">
+<div>2</div>
+</div>
+<div class="text-tinny">すべてのプロセスで共通利用されるメタデータ層</div>
+</div>
+<div class="num-card">
+<div class="number-box _30">
+<div>3</div>
+</div>
+<div class="text-tinny">AIと業務機能を自在に組み合わせる、統合サービスカタログ</div>
+</div>
+<div class="num-card">
+<div class="number-box _30">
+<div>4</div>
+</div>
+<div class="text-tinny">ルーズカップリング（ゆるやかに連携した仕組み）</div>
+</div>
+<div class="num-card">
+<div class="number-box _30">
+<div>5</div>
+</div>
+<div class="text-tinny">個別に分断されたデータ中心型のメタデータ層</div>
+</div>
+<div class="num-card">
+<div class="number-box _30">
+<div>6</div>
+</div>
+<div class="text-tinny">既存技術と新興テクノロジースタックの両方に対応</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="section-agilepoint-ai">
+<div class="page-padding-40">
+<div class="page-padding mt-100">
+<div class="container-1260">
+<div class="wrap-agilepoint-ai">
+<div class="heading-agilepoint-ai">
+<h2 class="h-42">AgilePoint AIとともに、革新的な未来を築きましょう</h2>
+</div>
+<div class="grid-agilepoint-ai grid-3">
+<div class="content-agilepoint-ai center"><img alt="" loading="lazy" src="https://cdn.prod.website-files.com/65d847699d4bd1a346311b4f/66c9355ea963ac0819c53d06_Icon.svg"/>
+<h4 class="h-20 font-pooppins font-600 size-19">変化に強く、AIの未来にも対応する設計</h4>
+</div>
+<div class="content-agilepoint-ai center"><img alt="" loading="lazy" src="https://cdn.prod.website-files.com/65d847699d4bd1a346311b4f/66d08de2a44d13e3623dee07_Icon.svg"/>
+<h4 class="h-20 font-pooppins font-600 size-19">AIおよびMLアプリケーション向けにAI対応データを準備および生成</h4>
+</div>
+<div class="content-agilepoint-ai center"><img alt="" loading="lazy" src="https://cdn.prod.website-files.com/65d847699d4bd1a346311b4f/66d08df190194bcd36dc6a77_Icon.svg"/>
+<h4 class="h-20 font-pooppins font-600 size-19">AIや生成AIの変化しやすく不確実な性質にしっかり対応</h4>
+</div>
+<div class="content-agilepoint-ai center"><img alt="" loading="lazy" src="https://cdn.prod.website-files.com/65d847699d4bd1a346311b4f/66d08dfeb83b389b2196faa5_Icon.svg"/>
+<h4 class="h-20 font-pooppins font-600 size-19">100%ウェブベースで拡張可能</h4>
+</div>
+<div class="content-agilepoint-ai center"><img alt="" loading="lazy" src="https://cdn.prod.website-files.com/65d847699d4bd1a346311b4f/66d08e0916ab2096874ea068_Icon.svg"/>
+<h4 class="h-20 font-pooppins font-600 size-19">企業成長に合わせて自在に拡張：スケールアップもスケールアウトも思いのまま</h4>
+</div>
+<div class="content-agilepoint-ai center"><img alt="" loading="lazy" src="https://cdn.prod.website-files.com/65d847699d4bd1a346311b4f/66d08e159c9428e11894deb0_Icon.svg"/>
+<h4 class="h-20 font-pooppins font-600 size-19">柔軟な展開：SaaS、プライベートクラウド、またはオンプレミス</h4>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="section-architected">
+<div class="page-padding-40">
+<div class="page-padding top-0">
+<div class="container-1220">
+<div class="wrap-architected">
+<div class="content-architected">
+<h2 class="h-42 text-drk">技術的負債を抑えつつ、柔軟性に優れたアーキテクチャ設計</h2><img alt="" class="_w-image-440" loading="lazy" src="https://cdn.prod.website-files.com/65d847699d4bd1a346311b4f/66d0b058866c360d2e95c174_Layer_2.svg"/></div>
+<div class="card-architected">
+<div class="card-architected-flex">
+<div class="box-architected"><img alt="" class="_w-img-72" loading="lazy" src="https://cdn.prod.website-files.com/65d847699d4bd1a346311b4f/66d0b35825f96638bcc1ef1d_Icon%20(51).svg"/>
+<h4 class="h-20 font-pooppins text-drk">コード生成不要</h4>
+</div>
+<div class="box-architected"><img alt="" class="_w-img-72" loading="lazy" src="https://cdn.prod.website-files.com/65d847699d4bd1a346311b4f/66dbcf0789b1d60204dcecd3_Icon(3).svg"/>
+<h4 class="h-20 font-pooppins text-drk">コンパイル不要</h4>
+</div>
+</div>
+<div class="card-architected-flex">
+<div class="box-architected"><img alt="" class="_w-img-72" loading="lazy" src="https://cdn.prod.website-files.com/65d847699d4bd1a346311b4f/66d0b35a56d30fb653325c29_Icon%20(52).svg"/>
+<h4 class="h-20 font-pooppins text-drk">仮想マシン不要</h4>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="section-create-enterprise mt-img">
+<div class="container-1220">
+<div class="wrap-create-enterprise">
+<div class="content-enterprise">
+<h2 class="h-42 text-drk">企業向けの高品質なフォームを作り、<br/>スピーディにワークフローを自動化</h2>
+<div class="maxw-810">
+<p class="pra-20 font-inter">AgilePointなら、シンプルな作業から複雑なプロセス全体の構築まで、フォーム、ワークフロー、BPM、オーケストレーションをすべて1つのプラットフォームで完結。<br/>“技術的負債”という足かせに縛られず、真の業務アジリティを手に入れましょう。</p>
+</div>
+</div>
+<div class="img-interprise"><img alt="" class="_w-img-100" loading="lazy" sizes="(max-width: 479px) 92vw, (max-width: 767px) 95vw, (max-width: 991px) 96vw, 952px" src="https://cdn.prod.website-files.com/65d847699d4bd1a346311b4f/66d0bc6743aeee10a8855b68_Slide%201.7.avif" srcset="https://cdn.prod.website-files.com/65d847699d4bd1a346311b4f/66d0bc6743aeee10a8855b68_Slide%201.7-p-500.avif 500w, https://cdn.prod.website-files.com/65d847699d4bd1a346311b4f/66d0bc6743aeee10a8855b68_Slide%201.7-p-800.png 800w, https://cdn.prod.website-files.com/65d847699d4bd1a346311b4f/66d0bc6743aeee10a8855b68_Slide%201.7-p-1080.png 1080w, https://cdn.prod.website-files.com/65d847699d4bd1a346311b4f/66d0bc6743aeee10a8855b68_Slide%201.7.avif 1596w"/></div>
+</div>
+</div>
+</div>
+<div class="section-comprehensive">
+<div class="page-padding-40">
+<div class="page-padding mt-100">
+<div class="container-1220">
+<div class="wrap-comprehensive">
+<div class="heading-comprehensive">
+<h2 class="h-42">包括的なビジネスプロセス管理</h2>
+</div>
+<div class="grid-comprehensive" data-w-id="17be2ff4-d20b-ea4e-5b81-9ac0c2c71f36">
+<div class="card-comprehensive"><img alt="" loading="lazy" src="https://cdn.prod.website-files.com/65d847699d4bd1a346311b4f/66d0c4b808504bb91b4ca8ba_Success_Updated%20(1).svg"/>
+<h4 class="h-20 font-inter">人と人との連携<small>（Human-to-Human）</small></h4>
+</div>
+<div class="card-comprehensive"><img alt="" loading="lazy" src="https://cdn.prod.website-files.com/65d847699d4bd1a346311b4f/66d0c4b808504bb91b4ca8ba_Success_Updated%20(1).svg"/>
+<h4 class="h-20 font-inter">人とシステムの連携<small>（Human-to-System）</small></h4>
+</div>
+<div class="card-comprehensive"><img alt="" loading="lazy" src="https://cdn.prod.website-files.com/65d847699d4bd1a346311b4f/66d0c4b808504bb91b4ca8ba_Success_Updated%20(1).svg"/>
+<h4 class="h-20 font-inter">システム間の連携<small>（System-to-System）</small></h4>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="section-ad-hoc">
+<div class="container-1220">
+<div class="wrap-ad-hoc">
+<div class="heading-ad-hoc">
+<h2 class="h-42">エンタープライズレベルの階層型ガバナンスを備えた、確率的・アドホックな実行時の柔軟性</h2>
+<p class="pra-20 font-inter text-white">AIおよび生成AIの予測不可能な特性に標準で対応</p>
+</div>
+<div class="box-ad-hoc">
+<div class="img-text-box-2"><img alt="" loading="lazy" src="https://cdn.prod.website-files.com/65d847699d4bd1a346311b4f/66ba6e1d086caa4d22341d34_Group%20(35).svg"/>
+<div>インフライト移行</div>
+</div>
+<div class="img-text-box-2"><img alt="" loading="lazy" src="https://cdn.prod.website-files.com/65d847699d4bd1a346311b4f/66ba6e1d086caa4d22341d34_Group%20(35).svg"/>
+<div>一時停止/再開</div>
+</div>
+<div class="img-text-box-2"><img alt="" loading="lazy" src="https://cdn.prod.website-files.com/65d847699d4bd1a346311b4f/66ba6e1d086caa4d22341d34_Group%20(35).svg"/>
+<div>スキップ/ロールバック</div>
+</div>
+<div class="img-text-box-2"><img alt="" loading="lazy" src="https://cdn.prod.website-files.com/65d847699d4bd1a346311b4f/66ba6e1d086caa4d22341d34_Group%20(35).svg"/>
+<div>動的並列処理</div>
+</div>
+<div class="img-text-box-2"><img alt="" loading="lazy" src="https://cdn.prod.website-files.com/65d847699d4bd1a346311b4f/66ba6e1d086caa4d22341d34_Group%20(35).svg"/>
+<div>動的直列処理</div>
+</div>
+<div class="img-text-box-2"><img alt="" loading="lazy" src="https://cdn.prod.website-files.com/65d847699d4bd1a346311b4f/66ba6e1d086caa4d22341d34_Group%20(35).svg"/>
+<div>動的階層処理</div>
+</div>
+<div class="img-text-box-2"><img alt="" loading="lazy" src="https://cdn.prod.website-files.com/65d847699d4bd1a346311b4f/66ba6e1d086caa4d22341d34_Group%20(35).svg"/>
+<div>分岐/統合</div>
+</div>
+<div class="img-text-box-2"><img alt="" loading="lazy" src="https://cdn.prod.website-files.com/65d847699d4bd1a346311b4f/66ba6e1d086caa4d22341d34_Group%20(35).svg"/>
+<div>マイルストーン/分岐</div>
+</div>
+<div class="img-text-box-2"><img alt="" loading="lazy" src="https://cdn.prod.website-files.com/65d847699d4bd1a346311b4f/66ba6e1d086caa4d22341d34_Group%20(35).svg"/>
+<div>部分的な再実行・再処理</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<section class="section_layout-overview">
+<div class="padding-global">
+<div class="container-large">
+<div class="padding-vertical-xhuge-13">
+<div class="layout75_component">
+<div class="max-width-large-7">
+<div class="space-xsmall-7"></div>
+<h2 class="h-42 align-center">ガバナンスを備えた強力な構成とデザイン体験</h2>
+<div class="space-xsmall-7"></div>
+</div>
+<div class="w-layout-grid layout75_list gird-3">
+<div class="layout75_item top">
+<h1 class="h-24 font-poppin text-align-left-2">視覚的なプロセスビルダー</h1>
+<div class="pra-20 font-inter text-align-left-2">120以上のシステムから抽象化された1200以上のモジュール型ビジネスアクティビティと階層化ガバナンスを利用。</div>
+</div>
+<div class="layout75_item top">
+<h1 class="h-24 font-poppin text-align-left-2">視覚的なeFormビルダー</h1>
+<div class="pra-20 font-inter text-align-left-2">75以上のUIコントロール、組み込みのビジネスルールビルダー、複数のデータソースへの接続機能を備える。</div>
+</div>
+<div class="layout75_item top">
+<h1 class="h-24 font-poppin text-align-left-2">視覚的なエンドツーエンド統合</h1>
+<div class="pra-20 font-inter text-align-left-2">120以上のシステム間で共通の抽象化メタデータ層を介してデータとアプリケーション統合を構成する。</div>
+</div>
+<div class="layout75_item top">
+<h1 class="h-24 font-poppin text-align-left-2">視覚的なアプリケーションポータルビルダー</h1>
+<div class="pra-20 font-inter text-align-left-2">アプリケーション固有のデジタルフロントエンドおよびアプリケーション管理インターフェースの迅速な作成を促進。</div>
+</div>
+<div class="layout75_item top">
+<h1 class="h-24 font-poppin text-align-left-2">ネイティブモバイルアプリビルダー</h1>
+<div class="pra-20 font-inter text-align-left-2">組み込みのモバイルダッシュボードまたは選択したアプリケーション向けの専用ネイティブモバイルアプリを迅速に作成することでモビリティを実現。</div>
+</div>
+<div class="layout75_item top">
+<h1 class="h-24 font-poppin text-align-left-2">強力な分析ビルダー</h1>
+<div class="pra-20 font-inter text-align-left-2">統合されたエンタープライズ級分析モジュールで関連データとプロセス実行を分析。</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<div class="section-powerful bg">
+<div class="page-padding mt-100">
+<div class="container-1260">
+<div class="wrap-powerful">
+<div class="heading-powerful">
+<h2 class="h-42">統制のとれた強力なアプリ設計・構築体験</h2>
+</div>
+<div class="grid-powerful">
+<div class="card-poweful">
+<div class="maxw-294">
+<h3 class="h-24 font-poppin">ビジュアルプロセスおよびアプリビルダー</h3>
+</div>
+<p class="pra-20 font-inter">110以上のシステムから抽象化された1110以上のモジュール型ビジネスアクティビティと階層化ガバナンスを利用</p>
+</div>
+<div class="card-poweful">
+<div class="maxw-294">
+<h3 class="h-24 font-poppin">ビジュアルeフォームアプリケーションビルダー</h3>
+</div>
+<p class="pra-20 font-inter">75以上のUIコントロール、組み込みのビジネスルールビルダー、複数のデータソースへの接続機能を備える</p>
+</div>
+<div class="card-poweful">
+<div class="maxw-294">
+<h3 class="h-24 font-poppin">ビジュアルエンドツーエンド統合</h3>
+</div>
+<p class="pra-20 font-inter">110以上のシステム間で共通の抽象化メタデータ層を介してデータとアプリケーション統合を構成</p>
+</div>
+<div class="card-poweful">
+<div class="maxw-294">
+<h3 class="h-24 font-poppin">ビジュアルアプリケーションポータルビルダー</h3>
+</div>
+<p class="pra-20 font-inter">アプリケーション固有のデジタルフロントエンドおよびアプリケーション管理インターフェースの迅速な作成を促進</p>
+</div>
+<div class="card-poweful">
+<div class="maxw-294">
+<h3 class="h-24 font-poppin">ネイティブモバイルアプリビルダー</h3>
+</div>
+<p class="pra-20 font-inter">75以上のUIコントロール、組み込みのビジネスルールビルダー、複数のデータソースへの接続機能を備える</p>
+</div>
+<div class="card-poweful">
+<div class="maxw-294">
+<h3 class="h-24 font-poppin">強力な分析ビルダー</h3>
+</div>
+<p class="pra-20 font-inter">統合されたエンタープライズ級分析モジュールで関連データとプロセス実行を分析</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="section-create-enterprise mt-img bg-1">
+<div class="container-1220">
+<div class="wrap-create-enterprise">
+<div class="content-enterprise">
+<h2 class="h-42 text-drk">AIコントロールタワーを使えば、<br/>どんな業務プロセスもすぐにAI対応に</h2>
+<div class="maxw-810 _w-951">
+<p class="pra-20 font-inter">AgilePointで構築されたアプリはすべて、AIコントロールタワーを通じて、追加開発なしで即座にAI統合が可能です。<br/></p>
+</div>
+</div>
+<div class="img-interprise"><img alt="" class="_w-img-100" loading="lazy" sizes="(max-width: 479px) 92vw, (max-width: 767px) 95vw, (max-width: 991px) 96vw, 952px" src="https://cdn.prod.website-files.com/65d847699d4bd1a346311b4f/66d326a2977df99baff97e78_Slide%2016_9%20-%2048.avif" srcset="https://cdn.prod.website-files.com/65d847699d4bd1a346311b4f/66d326a2977df99baff97e78_Slide%2016_9%20-%2048-p-500.png 500w, https://cdn.prod.website-files.com/65d847699d4bd1a346311b4f/66d326a2977df99baff97e78_Slide%2016_9%20-%2048-p-800.png 800w, https://cdn.prod.website-files.com/65d847699d4bd1a346311b4f/66d326a2977df99baff97e78_Slide%2016_9%20-%2048-p-1080.png 1080w, https://cdn.prod.website-files.com/65d847699d4bd1a346311b4f/66d326a2977df99baff97e78_Slide%2016_9%20-%2048.avif 1608w"/></div>
+</div>
+</div>
+</div>
+<div class="section-automation bg-2">
+<div class="wrap-automation">
+<div class="content-automation">
+<div class="page-padding-40">
+<div class="page-padding">
+<div class="container-1260">
+<div class="wrap-automation horizantal">
+<div class="items-automation left">
+<h2 class="h-42 font-poppins text-drk">AIコントロールタワーで、<br/>企業全体のAI活用が一気に前進</h2>
+<div class="services-list">
+<div class="services-list-items center"><img alt="" class="_w-img-50" loading="lazy" src="https://cdn.prod.website-files.com/65d847699d4bd1a346311b4f/66cf85201407bb0a5c959ef1_Group%2068.svg"/>
+<div class="text-20 text-drk">戦略的AIユースケースを加速</div>
+</div>
+<div class="services-list-items center"><img alt="" class="_w-img-50" loading="lazy" src="https://cdn.prod.website-files.com/65d847699d4bd1a346311b4f/66cf85201407bb0a5c959ef1_Group%2068.svg"/>
+<div class="text-20 text-drk">再利用可能なコンテキストAIサービスを作成</div>
+</div>
+<div class="services-list-items center"><img alt="" class="_w-img-50" loading="lazy" src="https://cdn.prod.website-files.com/65d847699d4bd1a346311b4f/66cf85201407bb0a5c959ef1_Group%2068.svg"/>
+<div class="text-20 text-drk">動的AIセーフガードを作成</div>
+</div>
+</div>
+</div><img alt="" class="img-w-515" loading="lazy" src="https://cdn.prod.website-files.com/65d847699d4bd1a346311b4f/66d327d8c73fcd2173d6c499_Group%20(40).svg"/></div>
+</div>
+</div>
+</div>
+</div>
+<div class="content-automation">
+<div class="page-padding-40">
+<div class="page-padding top-0">
+<div class="container-1260">
+<div class="wrap-automation horizantal"><img alt="" class="img-w387" loading="lazy" src="https://cdn.prod.website-files.com/65d847699d4bd1a346311b4f/66d327ddad27238405a1fb9a_Frame%20(9).svg"/>
+<div class="items-automation _w-766">
+<h2 class="h-42 font-poppins text-drk">AI時代の不確実性に備える、<br/>標準搭載のセーフガード<br/></h2>
+<div class="maxw-625">
+<p class="pra-20 font-inter text-blck">AgilePointのプラットフォームは、AIの予測不可能な特性を前提に、追加設定なしで使える企業レベルのガバナンスと安全性を備えています。これにより、すべてのアプリケーションがAI時代に備えた万全の状態で運用可能です。</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<section class="footer-component full-page">
+<div class="padding-global">
+<div class="container-large">
+<div class="padding-vertical padding-xxlarge">
+<div class="padding-bottom padding-xxlarge">
+<div class="ag-footer05_newsletter-wrapper">
+<div class="ag-footer05_newsletter-text-wrapper">
+<div class="heading-xxsmall-4">ニュースレターを購読</div>
+<div class="space-xxsmall-9"></div>
+<div class="ag-text-size-medium-14 hd">素敵なお手紙をお送りします。スパムはありません</div>
+</div>
+<div class="ag-footer05_form-block is-hide w-form">
+<form class="ag-footer05_form is-hide" data-name="Email Form" data-turnstile-sitekey="0x4AAAAAAAQTptj2So4dx43e" data-wf-element-id="831ae36f-635c-bf06-28f1-771401b4930c" data-wf-page-id="66d082590031bdbd4af27790" id="email-form" method="get" name="email-form"><input class="ag-form_input-3 w-input" data-name="Email 2" id="email" maxlength="256" name="email-2" placeholder="Enter your email" required="" type="email"/><input class="btn-demo bg-1 pd-40 is-small w-button" data-wait="Please wait..." type="submit" value="Subscribe"/></form>
+<div class="text-size-small-7">私たちはあなたのデータを大切にしています。こちらをご覧ください<a class="text-style-link-3" href="/trust-center/privacy-policy">プライバシーポリシー</a>.</div>
+<div class="success-message-2 w-form-done">
+<div class="h-20 font-inter">ありがとうございます！送信を受け付けました！</div>
+</div>
+<div class="error-message-2 w-form-fail">
+<div class="h-20 font-inter">申し訳ありません！フォームの送信中に問題が発生しました</div>
+</div>
+</div>
+<a class="btn-demo bg-1 pd-40 w-inline-block" href="/platform/subscribe-newsletter">
+<div class="btm-text">ニュースレターを購読</div>
+</a>
+</div>
+<div class="w-layout-grid footer-top-wrapper">
+<div class="footer-left-wrapper text-color-white">
+<div class="margin-bottom margin-medium"><a class="footer-logo-link w-nav-brand" href="/"><img alt="" class="image-logo" loading="lazy" src="https://cdn.prod.website-files.com/65d847699d4bd1a346311b4f/664e1ce620c731dc2511c012_Agilepoint%C2%AE_Logo.svg" width="180"/></a></div>
+<div class="margin-bottom margin-medium">
+<div class="footer3-details-wrapper">
+<div class="text-size-small-2 text-color-black">2003年に設立され、カリフォルニア州マウンテンビューに本社を置くAgilePointは、世界中のフォーチュン5000企業や政府機関が、エンタープライズ・エージェント型AIを実行時に回復力と整合性をもって運用、民主化、管理することを可能にします。</div>
+</div>
+</div>
+<div class="w-layout-grid footer-social-list">
+<a class="footer-social-link w-inline-block" href="https://www.facebook.com/AgilePointInc" target="_blank">
+<div class="social-icon w-embed"><svg fill="none" height="100%" viewbox="0 0 24 24" width="100%" xmlns="http://www.w3.org/2000/svg">
+<path d="M16.5 6H13.5C12.9477 6 12.5 6.44772 12.5 7V10H16.5C16.6137 9.99748 16.7216 10.0504 16.7892 10.1419C16.8568 10.2334 16.8758 10.352 16.84 10.46L16.1 12.66C16.0318 12.8619 15.8431 12.9984 15.63 13H12.5V20.5C12.5 20.7761 12.2761 21 12 21H9.5C9.22386 21 9 20.7761 9 20.5V13H7.5C7.22386 13 7 12.7761 7 12.5V10.5C7 10.2239 7.22386 10 7.5 10H9V7C9 4.79086 10.7909 3 13 3H16.5C16.7761 3 17 3.22386 17 3.5V5.5C17 5.77614 16.7761 6 16.5 6Z" fill="CurrentColor"></path>
+</svg></div>
+</a>
+<a class="footer-social-link is-hide w-inline-block" href="#">
+<div class="social-icon w-embed"><svg fill="none" height="100%" viewbox="0 0 24 24" width="100%" xmlns="http://www.w3.org/2000/svg">
+<path clip-rule="evenodd" d="M16 3H8C5.23858 3 3 5.23858 3 8V16C3 18.7614 5.23858 21 8 21H16C18.7614 21 21 18.7614 21 16V8C21 5.23858 18.7614 3 16 3ZM19.25 16C19.2445 17.7926 17.7926 19.2445 16 19.25H8C6.20735 19.2445 4.75549 17.7926 4.75 16V8C4.75549 6.20735 6.20735 4.75549 8 4.75H16C17.7926 4.75549 19.2445 6.20735 19.25 8V16ZM16.75 8.25C17.3023 8.25 17.75 7.80228 17.75 7.25C17.75 6.69772 17.3023 6.25 16.75 6.25C16.1977 6.25 15.75 6.69772 15.75 7.25C15.75 7.80228 16.1977 8.25 16.75 8.25ZM12 7.5C9.51472 7.5 7.5 9.51472 7.5 12C7.5 14.4853 9.51472 16.5 12 16.5C14.4853 16.5 16.5 14.4853 16.5 12C16.5027 10.8057 16.0294 9.65957 15.1849 8.81508C14.3404 7.97059 13.1943 7.49734 12 7.5ZM9.25 12C9.25 13.5188 10.4812 14.75 12 14.75C13.5188 14.75 14.75 13.5188 14.75 12C14.75 10.4812 13.5188 9.25 12 9.25C10.4812 9.25 9.25 10.4812 9.25 12Z" fill="CurrentColor" fill-rule="evenodd"></path>
+</svg></div>
+</a>
+<a class="footer-social-link w-inline-block" href="https://twitter.com/agilepoint" target="_blank">
+<div class="social-icon w-embed"><svg fill="#000000" height="24" viewbox="0 0 256 256" width="24" xmlns="http://www.w3.org/2000/svg"><path d="M214.75,211.71l-62.6-98.38,61.77-67.95a8,8,0,0,0-11.84-10.76L143.24,99.34,102.75,35.71A8,8,0,0,0,96,32H48a8,8,0,0,0-6.75,12.3l62.6,98.37-61.77,68a8,8,0,1,0,11.84,10.76l58.84-64.72,40.49,63.63A8,8,0,0,0,160,224h48a8,8,0,0,0,6.75-12.29ZM164.39,208,62.57,48h29L193.43,208Z"></path></svg></div>
+</a>
+<a class="footer-social-link w-inline-block" href="https://www.linkedin.com/company/agilepoint" target="_blank">
+<div class="social-icon w-embed"><svg fill="none" height="24" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
+<path clip-rule="evenodd" d="M5 3H19C20.1046 3 21 3.89543 21 5V19C21 20.1046 20.1046 21 19 21H5C3.89543 21 3 20.1046 3 19V5C3 3.89543 3.89543 3 5 3ZM8 18C8.27614 18 8.5 17.7761 8.5 17.5V10.5C8.5 10.2239 8.27614 10 8 10H6.5C6.22386 10 6 10.2239 6 10.5V17.5C6 17.7761 6.22386 18 6.5 18H8ZM7.25 9C6.42157 9 5.75 8.32843 5.75 7.5C5.75 6.67157 6.42157 6 7.25 6C8.07843 6 8.75 6.67157 8.75 7.5C8.75 8.32843 8.07843 9 7.25 9ZM17.5 18C17.7761 18 18 17.7761 18 17.5V12.9C18.0325 11.3108 16.8576 9.95452 15.28 9.76C14.177 9.65925 13.1083 10.1744 12.5 11.1V10.5C12.5 10.2239 12.2761 10 12 10H10.5C10.2239 10 10 10.2239 10 10.5V17.5C10 17.7761 10.2239 18 10.5 18H12C12.2761 18 12.5 17.7761 12.5 17.5V13.75C12.5 12.9216 13.1716 12.25 14 12.25C14.8284 12.25 15.5 12.9216 15.5 13.75V17.5C15.5 17.7761 15.7239 18 16 18H17.5Z" fill="CurrentColor" fill-rule="evenodd"></path>
+</svg></div>
+</a>
+<a class="footer-social-link w-inline-block" href="https://www.youtube.com/AgilePoint">
+<div class="social-icon w-embed"><svg fill="none" height="100%" viewbox="0 0 24 24" width="100%" xmlns="http://www.w3.org/2000/svg">
+<path clip-rule="evenodd" d="M18.5399 4.33992L19.9999 4.48992C21.7284 4.68529 23.0264 6.16064 22.9999 7.89992V16.0999C23.0264 17.8392 21.7284 19.3146 19.9999 19.5099L18.5999 19.6599C14.2315 20.1099 9.82835 20.1099 5.45991 19.6599L3.99991 19.5099C2.27143 19.3146 0.973464 17.8392 0.999909 16.0999V7.89992C0.973464 6.16064 2.27143 4.68529 3.99991 4.48992L5.39991 4.33992C9.76835 3.88995 14.1715 3.88995 18.5399 4.33992ZM11.1099 15.2199L14.9999 12.6199H15.0599C15.2695 12.4833 15.3959 12.2501 15.3959 11.9999C15.3959 11.7497 15.2695 11.5165 15.0599 11.3799L11.1699 8.77992C10.9402 8.62469 10.6437 8.60879 10.3987 8.73859C10.1538 8.86839 10.0004 9.12271 9.99991 9.39992V14.5999C10.0128 14.858 10.1576 15.0913 10.3832 15.2173C10.6088 15.3433 10.8834 15.3443 11.1099 15.2199Z" fill="currentColor" fill-rule="evenodd"></path>
+</svg></div>
+</a>
+</div>
+</div>
+<div class="w-layout-grid footer-menu-wrapper text-color-white">
+<div class="footer-link-list">
+<div class="text-size-small-2 text-color-black"><span class="text-weight-semibold">プラットフォーム</span></div><a aria-current="page" class="footer-link w--current" href="/platform/overview">なぜAgilepointか</a><a class="footer-link hide" href="#">なぜAgilepointか</a><a class="footer-link" href="/platform/core-capabilities">コア機能</a><a class="footer-link" href="/platform/pricing">価格</a><a class="footer-link" href="/platform/integrations">統合</a><a class="footer-link" href="http://store.agilepoint.com" target="_blank">アプリストア</a><a class="footer-link" href="/platform/security-and-governance">セキュリティとガバナンス</a><a class="footer-link" href="https://nx14.cloud.agilepoint.com/idp/login">クラウドにログイン - EMEA</a>
+<a class="footer-link" href="https://prodapp2.nxone.com/idp/login">クラウドにログイン - NA</a>
+</div>
+<div class="footer-link-list">
+<div class="text-size-small-2 text-color-black"><span class="text-weight-semibold">リソース</span></div><a class="footer-link" href="/resources/event-webinar">イベント</a><a class="footer-link" href="/resources/podcast">ポッドキャスト</a><a class="footer-link" href="/resources/resource-center">リソースセンター</a><a class="footer-link" href="https://blog.agilepoint.com/">プロダクトブログ</a><a class="footer-link" href="http://youtube.com/agilepoint">トレーニング</a><a class="footer-link" href="/blog">ブログ</a>
+<a class="footer-link" href="/partners/find-a-partner">パートナー(日本)</a><a class="footer-link" href="https://training.agilepoint.com/">レガシートレーニング</a></div>
+<div class="footer-link-list">
+<div class="text-size-small-2 text-color-black"><span class="text-weight-semibold"><strong>会社</strong></span></div><a class="footer-link" href="/company">私たちについて</a><a class="footer-link" href="/contact">連絡先</a><a class="footer-link" href="/trust-center">トラストセンター</a>
+<a class="footer-link" href="/standard-licensing-terms">ライセンス条項</a><a class="footer-link" href="/careers">採用情報</a><a class="footer-link" href="https://helpdesk.agilepoint.com/hc/en-us">ヘルプデスク</a><a class="footer-link" href="https://helpdesk.agilepoint.com/hc/en-us/community/topics">コミュニティフォーラム</a></div>
+<div class="footer-link-list">
+<div class="text-size-small-2 text-color-black"><span class="text-weight-semibold">法的情報</span></div><a class="footer-link" href="/trust-center/terms-and-conditions">利用規約</a><a class="footer-link" href="/trust-center/privacy-policy">プライバシーポリシー</a>
+<a class="footer-link" href="/trust-center/acceptable-use-policy">利用ポリシー</a><a class="footer-link" href="/legal/platform-privacy">プラットフォームポリシー</a><a class="footer-link" href="/legal/privacy-shield">プライバシーシールド</a><a class="footer-link" href="/legal/gdpr">GDPR</a>
+<a class="footer-link" href="/legal/nx-mobile-app-privacy-policy">モバイルアプリポリシー</a><a class="footer-link" href="/legal/mobile-application-end-user-license-agreement">モバイルアプリ利用規約</a></div>
+</div>
+</div>
+</div>
+<div class="line-divider"></div>
+<div class="padding-top padding-medium text-color-white">
+<div class="footer-bottom-wrapper">
+<div class="footer-credit-text">ⓒ 2025 <a class="link-5" href="/">AgilePoint Inc.</a>すべての権利を保有</div>
+<div class="w-layout-grid footer3-legal-list"><a class="footer-legal-link" href="/legal/platform-privacy">プラットフォームプライバシー</a><a class="footer-legal-link" href="/trust-center/terms-and-conditions">利用規約</a><a class="footer-legal-link" href="/legal/privacy-shield">プライバシーシールドポリシー</a></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+</div>
+<script crossorigin="anonymous" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" src="https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=65d847699d4bd1a346311b4f" type="text/javascript"></script>
+<script src="https://cdn.prod.website-files.com/65d847699d4bd1a346311b4f/js/webflow.schunk.4e286d1a76aad9f2.js" type="text/javascript"></script>
+<script src="https://cdn.prod.website-files.com/65d847699d4bd1a346311b4f/js/webflow.schunk.f20ed3791d31cff0.js" type="text/javascript"></script>
+<script src="https://cdn.prod.website-files.com/65d847699d4bd1a346311b4f/js/webflow.9897821b.98db41812dadf805.js" type="text/javascript"></script>
+<!-- Start of HubSpot Embed Code -->
+<script async="" defer="" id="hs-script-loader" src="//js.hs-scripts.com/8925703.js" type="text/javascript"></script>
+<!-- End of HubSpot Embed Code -->
+</body>
+</html>
